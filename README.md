@@ -760,6 +760,830 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 </div>
 
 ## 3.2. User Stories
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Acceso a la cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            01
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Iniciar sesión
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b>  usuario, <b>quiero</b> iniciar sesión con mi correo y contraseña <b>para</b> un acceso seguro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Inicio de sesión exitoso</br>
+            <b>Dado</b> que el usuario ya se encuentra registrado en la plataforma </br>
+            <b>Cuando</b> ingresa su respectivo correo y contraseña </br>
+            <b>Entonces</b> el sistema permitirá al usuario iniciar sesión correctamente en la plataforma.</br> </br>
+            <b>Scenario 02:</b> Inicio de sesión fallido </br>
+            <b>Dado</b> que el usuario ya se encuentra registrado en la plataforma</br>
+            <b>Cuando</b> ingresa un correo o contraseña incorrecta</br>
+            <b>Entonces</b> el sistema no permitirá al usuario iniciar sesión </br>
+            <b>Y</b> se mostrará un mensaje de error indicando que las creedenciales son incorrectas.   
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Acceso a la cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Registrar con correo
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario <b>quiero</b> poder registrarme con mi correo a la plataforma <b>para</b> agilizar el proceso de registro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Registro exitoso</br>
+            <b>Dado</b> que el cliente quiere registrarse en la plataforma </br>
+            <b>Cuando</b> el cliente ingresa un correo electrónico válido y una contraseña segura </br>
+            <b>Entonces </b>el sistema procesara el registro </br>
+            <b>Y</b> creará una cuenta asociada con ese correo electrónico. </br> </br>
+            <b>Scenario 02:</b> Registro fallido </br>
+            <b>Dado</b> que el cliente quiere registrarse en la plataforma </br>
+            <b>Cuando</b> el cliente ingresa un correo electrónico que ya esta en uso </br>
+            <b>Entonces</b> el sistema no permitirá que el usuario complete el registro</br>
+            <b>Y</b> mostrará un mensaje de error indicando que ese correo ya ha sido registrado.  
+        </td>
+    </tr>
+    </tr>
+</table>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Acceso a la cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            03
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Manejar información del perfil
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario, <b>quiero</b> manejar la información de mi perfil <b>para</b> mantener mis datos personales actualizados.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Actualización de datos exitosa</br>
+            <b>Dado</b> que el usuario ya se encuentra dentro de la plataforma </br>
+            <b>Y</b> desea actualizar la información de su perfil </br>
+            <b>Cuando</b> el usuario modifica sus datos personales y guarda los cambios </br>
+            <b>Entonces</b> el sistema actualizará los detalles del perfil del usuario </br> </br>
+            <b>Scenario 02:</b> Visualización de información </br> 
+            <b>Dado</b> que el usuario ya se encuentra dentro de la plataforma </br>
+            <b>Y</b> desea visualizar la información de su perfil </br>
+            <b>Cuando</b> el usuario ingrese a la sección de perfil de la plataforma </br> 
+            <b>Entonces</b> el sistema mostrará todos los datos de la información personal del usuario.             
+        </td>
+    </tr>
+    </tr>
+</table>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Pasarela de Pago
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            04
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Mejorar a cuenta premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario, <b>quiero</b> mejorar mi cuenta a premium con diferentes métodos de pagos <b>para</b> obtener mejoras en mi cuenta.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+           <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Actualización a cuenta premium exitosa</br>
+            <b>Dado</b> que el usuario se encuentra con una cuenta free </br>
+            <b>Y</b> desea ascender su estado a premium </br>
+            <b>Cuando</b> el usuario seleccione la opción de mejorar su cuenta a premium </br>
+            <b>Y</b> realize la respectiva transacción </br>
+            <b>Y</b> seleccione su método de pago </br>
+            <b>Y</b> realize la respectiva transacción </br>
+            <b>Entonces</b> el sistema concederá al usuario el estado premium</br>
+            <b>Y</b> podrá acceder a las funciones adicionales que ofrece. </br> </br>
+            <b>Scenario 02:</b> Método de pago inválido </br>
+            <b>Dado</b> que el usuario se encuentra con una cuenta free </br>
+            <b>Y</b> desea ascender su estado a premium </br>
+            <b>Cuando</b> el usuario seleccione la opción de mejorar su cuenta a premium </br>
+            <b>Y</b> seleccione método de pago que no sea válido </br>
+            <b>Entonces</b> el sistema no permitirá al usuario que complete la transacción </br>
+            <b>Y</b> mostrará un mensaje de error indicando que el método de pago no es válido.          
+        </td>
+    </tr>
+    </tr>
+</table>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Pasarela de Pago
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            05
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Administrar tarjeta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario <b>quiero</b> administrar los datos de mi tarjeta <b>para</b> permitirá realizar transacciones dentro de la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Agregar tarjeta</br>
+            <b>Dado</b> que el usuario desea guardar su tarjeta en la plataforma para futuras transacciones </br>
+            <b>Cuando</b> el usuario ingresa los detalles de su tarjeta</b> </br>
+            <b>Y</b> le da a la opción guardar </br>
+            <b>Entonces</b> el sistema agregará la tarjeta al perfil del usuario</br> 
+            <b>Y</b> mostrará un mensaje de confirmación indicando que se agregó la tarjeta correctamente. </br> </br>
+            <b>Scenario 02:</b> Eliminar tarjeta </br>
+            <b>Dado</b> que el usuario desea eliminar su tarjeta de la plataforma </br>
+            <b>Cuando</b> el usuario seleccione la opción de eliminar tarjeta </br>
+            <b>Entonces</b> el sistema eliminará la tarjeta seleccionada </br>
+            <b>Y</b> mostrará un mensaje de confirmacion indicando que la tarjeta ha sido eliminada correctamente.          
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            06
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Destacar perfil de chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> chambeador <b>quiero</b> contar con la opción de destacar mi perfil en
+            los resultados de búsqueda <b>para</b> aumentar mis posibilidades de ser seleccionado.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Perfil destacado correctamente</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Opciones" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> active la opción "Destacar mi perfil"  </br>
+            <b>Entonces</b> el perfil tendrá prioridad elevada en los resultados de búsqueda.<br>
+            <br>
+            <b>Scenario 02:</b> La opción de destacar perfil se encuentra desactivada</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Opciones" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> la opción "Destacar mi perfil" se encuentre desactivada  </br>
+            <b>Entonces</b> el perfil tendrá prioridad normal en los resultados de búsqueda.  
+            <br>     
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            07
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Filtrar perfiles de chambeadores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> tener la opción de filtrar perfiles
+            <b>para</b> reducir el tiempo de selección.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Filtro por calificación</br>
+            <b>Dado</b> que el usuario empleador se encuentre en la sección de "Chambeadores" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+             <b> Y</b> seleccione la opción de "Ajustar filtros" <br>
+            <b>Cuando</b> elija la calificación mínima  </br>
+            <b>Entonces</b> se mostrarán solo los perfiles con la calificación mínima seleccionada.<br>
+            <br>
+            <b>Scenario 02:</b> Filtro por antigüedad</br>
+            <b>Dado</b> que el usuario empleador se encuentre en la sección de "Chambeadores" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+             <b> Y</b> seleccione la opción de "Ajustar filtros" <br>
+            <b>Cuando</b> elija la antigüedad mínima  </br>
+            <b>Entonces</b> se mostrarán solo los perfiles con la antigüedad mínima seleccionada.<br>       
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            08
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Notificar trabajos recomendados
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> chambeador <b>quiero</b> recibir notificaciones sobre
+            trabajos relevantes a mi perfil mediante la suscripción premium
+            <b>para</b> postular más rápido.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Preferencias de trabajo suministradas </br>
+            <b>Dado</b> que el usuario chambeador tenga las notificaciones activadas </br>
+            <b>Cuando</b> complete sus preferencias de trabajo </br>
+            <b> Y</b> cuente con una suscripción premium activa  <br>
+            <b>Entonces</b> se enviarán notificaciones periódicamente informándole sobre trabajos que le puedan interesar.<br>
+            <br>
+            <b>Scenario 02:</b> Preferencias de trabajo incompletas o no suministradas </br>
+            <b>Dado</b> que el usuario chambeador tenga las notificaciones activadas </br>
+            <b>Cuando</b> sus preferencias de trabajo estén incompletas</br>
+            <b> Y</b> cuente con una suscripción premium activa  <br>
+            <b>Entonces</b> el sistema le notificará que las preferencias deben ser completadas para recibir notificaciones de trabajos sugeridos<br>        
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            09
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Publicar anuncios como chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> chambeador <b>quiero</b> publicar un anuncio de trabajo
+            <b>para</b> que me contacten más rápido.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Publicación de anuncio de trabajo correcta</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Publicar" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> llene los datos solicitados  </br>
+            <b>Entonces</b> se publicará un anuncio de trabajo para que los empleadores puedan contactarse.<br>
+            <br>
+            <b>Scenario 02:</b> Datos incompletos en la publicación</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Publicar" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> los datos estén incompletos  </br>
+            <b>Entonces</b> se mostrará un mensaje de error indicando que faltan llenar datos en la publicación.<br>       
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            10
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Resaltar anuncios del empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador con membresía premium <b>quiero</b> que mis publicaciones tengan prioridad al ser publicadas
+            <b>para</b> atraer la atención de trabajadores cualificados y entusiastas. 
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Anuncio resaltado correctamente</br>
+            <b>Dado</b> que el usuario es un empleador con membresía premium </br>
+            <b> Cuando</b> publique un anuncio en la plataforma <br>
+            <b>Entonces</b> el anuncio obtendrá automáticamente prioridad<br>
+            <b>Y</b> se mostrará en una sección destacada   
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades del Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            11
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Registrar pago del Chambeador.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> definir el pago con el chambeador <b>para</b> tener un registro en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Definiendo el pago del chambeador seleccionado</br>
+            <b>Dado</b> que el empleador necesita definir el costo su trabajo</br>
+            <b>Cuando</b> haga contacto con el chambeador</br>
+            <b>Entonces</b> podrán acordar un precio final del trabajo. </br></br>
+            <b>Scenario 02:</b> Definiendo el pago del chambeador postulante</br>
+            <b>Dado</b> que el empleador necesita definir el costo su trabajo</br>
+            <b>Y</b> este revisó los perfiles de los postulantes </br>
+            <b>Cuando</b> haga contacto con el chambeador elegido</br>
+            <b>Y</b> se contacte con él</br>
+            <b>Entonces</b> podrán acordar un precio final del trabajo.            
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Comunicar entre empleado y chambeador.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> tener la opción definir las características del trabajo directamente con los chambeadores <b>para</b> mantener un medio de comunicación seguro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Definiendo las características del trabajo</br>
+            <b>Dado</b> que el empleador se contactó con el chambeador</br>
+            <b>Cuando</b> se inicie el chat de la app</br>
+            <b>Entonces</b> podrán acordar las pautas y características del trabajo.            
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            13
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Reseñar empleador al chambeador.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> quiero dejar una reseña sobre la experiencia con el chambeador después de que el trabajo se haya completado <b>para</b> calificar su servicio.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Dejando una reseña al chambeador</br>
+            <b>Dado</b> que el empleador quiere dejar una reseña</br>
+            <b>Cuando</b> el chambeador terminó de hacer su trabajo</br>
+            <b>Entonces</b> puntuaría en función de 0 – 5 el trabajo realizado </br>
+            <b>Y</b> agregaría un comentario a la calificación.
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Visualizar perfiles de chambeadores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> poder visualizar los perfiles de los chambeadores, <b>para</b> evaluar su experiencia y estilo de trabajo antes de contratarlos.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Visualizando los perfiles de los chambeadores</br>
+            <b>Dado</b> que el empleador está buscando a un chambeador</br>
+            <b>Cuando</b>se necesita para contratar por un servicio</br>
+            <b>Entonces</b> revisará los perfiles de los chambeadores para ver si están calificados para el trabajo.
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Manejar anuncios de trabajo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> manejar (crear- editar) mis anuncios de trabajo <b>para</b> buscar candidatos.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Crear anuncios de trabajo</br>
+            <b>Dado</b> que el empleador quiere crear sus anuncios</br>
+            <b>Cuando</b> requiera un chambeador</br>
+            <b>Entonces</b> podrá subir un anuncio a la app web
+            </br></br>
+            <b>Scenario 02:</b> Editar anuncios de trabajo</br>
+            <b>Dado</b> que el empleador quiere editar sus anuncios</br>
+            <b>Cuando</b> requiera cambiar algún parámetro o característica</br>
+            <b>Entonces</b> podrá modificar su anuncio </br>
+            <b>Y</b> se actualizará en la app web.
+        </td>
+    </tr>
+</table>
+
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
