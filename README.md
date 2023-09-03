@@ -899,6 +899,21 @@ En las entrevistas, se revelan diversas perspectivas sobre la contratación y la
 En general, los participantes valoran la experiencia laboral, pero también reconocen la relevancia del compromiso y la disposición para aprender. Varios consideran la aplicación como una manera de mejorar la búsqueda de trabajadores temporales fiables y brindar oportunidades a individuos sin experiencia. Destacan la facilidad de uso, la retroalimentación y la adaptabilidad como características clave. Además, se subraya la importancia de encontrar personas confiables y cualificadas para los puestos. Algunos entrevistados también expresan la necesidad de características de filtrado y personalización en la aplicación para optimizar el proceso de selección de candidatos adecuados. En resumen, estas entrevistas reflejan la variedad de enfoques en la contratación y la disposición a utilizar herramientas como "ChambeaPe" para mejorar este proceso.
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926601859674152/Luis_Perez_1.png" alt="Canvas"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926636429131796/Jose_Dias.png" alt="Canvas"  width="90%"/>
+</div>
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
@@ -1125,7 +1140,6 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Dado</b> que el usuario se encuentra con una cuenta free </br>
             <b>Y</b> desea ascender su estado a premium </br>
             <b>Cuando</b> el usuario seleccione la opción de mejorar su cuenta a premium </br>
-            <b>Y</b> realize la respectiva transacción </br>
             <b>Y</b> seleccione su método de pago </br>
             <b>Y</b> realize la respectiva transacción </br>
             <b>Entonces</b> el sistema concederá al usuario el estado premium</br>
