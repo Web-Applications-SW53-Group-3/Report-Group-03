@@ -933,6 +933,20 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 
 ### 2.3.4. Empathy Mapping
 
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730477780836474/Luis_Perez.png" alt="Segmento 1 empathy map"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730495849889925/Jose_Dias.png" alt="Segmento 2 empathy map"  width="90%"/>
+</div>
+
 ### 2.3.5. As-is Scenario Mapping
 
 <br><br>
