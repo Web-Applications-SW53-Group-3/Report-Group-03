@@ -899,12 +899,241 @@ En las entrevistas, se revelan diversas perspectivas sobre la contratación y la
 En general, los participantes valoran la experiencia laboral, pero también reconocen la relevancia del compromiso y la disposición para aprender. Varios consideran la aplicación como una manera de mejorar la búsqueda de trabajadores temporales fiables y brindar oportunidades a individuos sin experiencia. Destacan la facilidad de uso, la retroalimentación y la adaptabilidad como características clave. Además, se subraya la importancia de encontrar personas confiables y cualificadas para los puestos. Algunos entrevistados también expresan la necesidad de características de filtrado y personalización en la aplicación para optimizar el proceso de selección de candidatos adecuados. En resumen, estas entrevistas reflejan la variedad de enfoques en la contratación y la disposición a utilizar herramientas como "ChambeaPe" para mejorar este proceso.
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926601859674152/Luis_Perez_1.png" alt="Segmento 1 user persona"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926636429131796/Jose_Dias.png" alt="Segmento 2 user persona"  width="90%"/>
+</div>
+
 ### 2.3.2. User Task Matrix
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Luis Perez</b> </br>Segmento Objetivo 01 (Chambeador entre 18 a 30 años)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Postular a trabajos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Editar su perfil de chambeador
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Agregar certifaciones o  </br> capacitaciones a su perfil
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Coordinar con el empleador
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Cumplir con el trabajo aceptado
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Informar sobre algun percance </br> que le impida cumplir con el trabajo
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
+</br></br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>José Días</b> </br>Segmento Objetivo 02 (Empleador entre 18 a 50 años)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Crear una oferta de trabajo
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Seleccionar un chambeador
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Coordinar con el chambeador
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Cumplir la remuneración </br> acordada con el chambeador
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+        <tr>
+        <td>
+            Avisar al chambeador si el </br> trabajo se suspende
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping
+
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730437419061278/User_Journey_Map.png" alt="Segmento 1 journey map"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730458977775776/User_Journey_Map_2.png" alt="Segmento 2 journey map"  width="90%"/>
+</div>
+
 ### 2.3.4. Empathy Mapping
+
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730477780836474/Luis_Perez.png" alt="Segmento 1 empathy map"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730495849889925/Jose_Dias.png" alt="Segmento 2 empathy map"  width="90%"/>
+</div>
+
 ### 2.3.5. As-is Scenario Mapping
 
-<br><br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146694430343036948/AS-IS_Empleador.png?width=1920&height=810" alt="As-Is(Empleador)"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146694430108176494/AS-IS_Chambeador.png?width=1840&height=896" alt="As-Is(Chambeador)"  width="90%"/>
+</div>
+
+</br></br>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
@@ -1125,7 +1354,6 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Dado</b> que el usuario se encuentra con una cuenta free </br>
             <b>Y</b> desea ascender su estado a premium </br>
             <b>Cuando</b> el usuario seleccione la opción de mejorar su cuenta a premium </br>
-            <b>Y</b> realize la respectiva transacción </br>
             <b>Y</b> seleccione su método de pago </br>
             <b>Y</b> realize la respectiva transacción </br>
             <b>Entonces</b> el sistema concederá al usuario el estado premium</br>
