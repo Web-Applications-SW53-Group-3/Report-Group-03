@@ -915,6 +915,182 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 </div>
 
 ### 2.3.2. User Task Matrix
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Luis Perez</b> </br>Segmento Objetivo 01 (Chambeador entre 18 a 30 años)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Postular a trabajos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Editar su perfil de chambeador
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Agregar certifaciones o  </br> capacitaciones a su perfil
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Coordinar con el empleador
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Cumplir con el trabajo aceptado
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Informar sobre algun percance </br> que le impida cumplir con el trabajo
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
+</br></br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>José Días</b> </br>Segmento Objetivo 02 (Empleador entre 18 a 50 años)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Crear una oferta de trabajo
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Seleccionar un chambeador
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Coordinar con el chambeador
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Cumplir la remuneración </br> acordada con el chambeador
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+        <tr>
+        <td>
+            Avisar al chambeador si el </br> trabajo se suspende
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping
 
 **Segmento 1**
