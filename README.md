@@ -949,7 +949,15 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 
 ### 2.3.5. As-is Scenario Mapping
 
-<br><br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146694430343036948/AS-IS_Empleador.png?width=1920&height=810" alt="As-Is(Empleador)"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146694430108176494/AS-IS_Chambeador.png?width=1840&height=896" alt="As-Is(Chambeador)"  width="90%"/>
+</div>
+
+</br></br>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
