@@ -903,7 +903,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 **Segmento 1**
 
 <div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926601859674152/Luis_Perez_1.png" alt="Canvas"  width="90%"/>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926601859674152/Luis_Perez_1.png" alt="Segmento 1 user persona"  width="90%"/>
 </div>
 
 </br>
@@ -911,12 +911,28 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 **Segmento 2**
 
 <div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926636429131796/Jose_Dias.png" alt="Canvas"  width="90%"/>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926636429131796/Jose_Dias.png" alt="Segmento 2 user persona"  width="90%"/>
 </div>
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730437419061278/User_Journey_Map.png" alt="Segmento 1 journey map"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730458977775776/User_Journey_Map_2.png" alt="Segmento 2 journey map"  width="90%"/>
+</div>
+
 ### 2.3.4. Empathy Mapping
+
 ### 2.3.5. As-is Scenario Mapping
 
 <br><br>
