@@ -2523,6 +2523,13 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 
 ## 3.4. Product Backlog
 
+Les presentamos nuestro [Product Backlog](https://trello.com/b/KONj0nS6/product-backlog) para el desarrollo de nuestra landing page.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1149773251933896768/image.png" alt="Product-Backlog"  width="80%"/>
+</div>
+</br>
+
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr>
         <th>
@@ -4277,6 +4284,14 @@ Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestr
 </br>
 
 #### 5.2.1.2. Sprint Backlog 1
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se deben realizar para completar el Sprint.
+- [Click aqui para ver el Trello](https://trello.com/b/mfAT1Gn2/sprint-backlog)
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149792374013317150/image.png" alt="Trello-Sprint"  width="90%"/>
+</div>
+</br>
 
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
