@@ -3006,6 +3006,29 @@ Al entrar a nuestra aplicación aplicación, el usuario podrá visualizar 4 secc
 </div>
 
 ### 4.2.2. Labeling Systems
+
+Los sistemas de etiquetado en arquitectura de la información son un conjunto de reglas que permiten etiquetar los contenidos de un sitio web. Estos sistemas se basan en la clasificación de los contenidos y en la estructura de navegación del sitio.
+
+En el proyecto manejaremos un sistema de **etiquetado por facetas**, el cual consiste en la clasificación de los contenidos por categorías, las cuales se pueden combinar entre sí para encontrar un contenido específico.
+
+Dichas categorías son:
+
+- HomePage (Página de inicio)
+- Login (Inicio de sesión)
+- Register (Registro)
+- Profile (Perfil)
+- Job (Empleo)
+- JobOffer (Oferta de empleo)
+- JobRequest (Solicitud de empleo)
+- JobOfferList (Lista de ofertas de empleo)
+- JobRequestList (Lista de solicitudes de empleo)
+- JobOfferDetail (Detalle de oferta de empleo)
+- JobRequestDetail (Detalle de solicitud de empleo)
+- JobOfferCreate (Creación de oferta de empleo)
+- JobRequestCreate (Creación de solicitud de empleo)
+- Chat conector (Actualización de oferta de empleo)
+- JobRequestUpdate (Actualización de solicitud de empleo)
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
