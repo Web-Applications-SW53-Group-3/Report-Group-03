@@ -2514,6 +2514,13 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 </table>
 
 ## 3.3. Impact Mapping
+
+<br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149502374931599390/Impact_Mapping_1.png" alt="Impact-Mapping"  width="90%"/>
+</div>
+
 ## 3.4. Product Backlog
 
 <br><br>
