@@ -3123,6 +3123,16 @@ El patrón de lectura a utilizar para la visualización de nuestra web para las 
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
+
+Este es nuestro link de Figma, donde se encuentra el prototipo de alta fidelidad de nuestra aplicación web. 👇🏻👇🏻 </br>
+
+<div align=center>
+    <a href="https://www.figma.com/proto/w0g3AL36W7qu0bi2Kk6Kvj/Open-Web?page-id=308%3A6132&type=design&node-id=309-6135&viewport=2335%2C1740%2C0.45&t=XaViXdg2RtFlvDIl-1&scaling=min-zoom&starting-point-node-id=309%3A6135&mode=design" target="_blank">
+        <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1149517805620830300/Prototipo.png" alt="Prototype"  width="30%"/>
+    </a>
+</div>
+</br>
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
