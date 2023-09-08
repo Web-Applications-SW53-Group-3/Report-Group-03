@@ -3235,6 +3235,65 @@ El chambeador ingresa a su perfil desde la página principal. Cuando presione el
 
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
+
+**User goal 01:**  El empleador revisa la lista de candidatos interesados en el trabajo, realiza un proceso de selección, evalúa sus perfiles y establece una comunicación inicial antes de finalizar la contratación.
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1149465780979773511/Diagrama_en_blanco_-_Pagina_1_1.png?width=2880&height=822" width="90%" alt="User Goal 01">
+
+</br>
+
+**Descripción:** En este proceso de evaluación y selección de candidatos, el empleador acceder a sus listas de publicaciones, luego de acceder a todos sus trabajos publicados aplica filtros de acuerdo con sus preferencias, pero solo si lo desea. Después, ve el perfil del chambeador para asegurarse que sean y puede revisar sus trabajos realizados para tener una referencia.
+
+**User goal 02:** Empleador maneja un anuncio de trabajo
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149622649861967973/Diagrama_en_blanco_-_Pagina_1_2.png?width=1446&height=1242" width="90%" alt="User Goal 02">
+
+</br>
+
+**Descripción:** En el proceso de creación y eliminación de un anuncio de trabajo, el empleador comienza por definir los detalles de la posición vacante, como el título, la descripción, los requisitos y la ubicación. Luego, publica el anuncio en la plataforma. Si posteriormente decide retirarlo, puede eliminarlo de la lista de trabajos publicados. Este flujo permite al empleador gestionar las oportunidades laborales que ofrece en la plataforma de manera efectiva y sencilla.
+
+**User goal 03:** Empleador ve las solicitudes de los chambeadores en los anuncios que publico.
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149623757003030639/Diagrama_en_blanco_-_Pagina_1_3.png?width=2880&height=1158" width="90%" alt="User Goal 03">
+
+**Descripción:** El objetivo del usuario es que el empleador pueda revisar las aplicaciones y solicitudes de los chambeadores que han mostrado interés en los anuncios de trabajo que él ha publicado en la plataforma. Esto le permite al empleador evaluar las opciones disponibles y tomar decisiones informadas sobre la selección de candidatos para sus puestos de trabajo. Por eso, presiona el ícono de la maleta, luego tiene la opción de editar, agregar y eliminar sus anuncios. El siguiente paso es que el empleador vea la lista de postulantes de su anuncio. Finalmente, el empleador puede ver el perfil de los chambeadores y decidir si los contacta o no.
+
+**User goal 04:** El empleador conversa y realiza la negociación con el chambeador.
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149625609476132924/Diagrama_en_blanco_-_Pagina_1_5.png?width=2880&height=998" width="90%" alt="User Goal 04">
+
+**Descripción:** El objetivo del usuario es que el empleador pueda comunicarse y entablar una negociación efectiva con el chambeador interesado en su anuncio de trabajo. Esto facilita la discusión de detalles, acuerdos y condiciones del trabajo antes de finalizar la contratación, asegurando una comprensión mutua y una colaboración exitosa.
+
+**User goal 05:** Empleador filtra las solicitudes de los chambeadores para elegir el más apto.
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149629036717408277/Diagrama_en_blanco_-_Pagina_1_7.png?width=1322&height=690" width="90%" alt="User Goal 05">
+
+**Descripción:** El objetivo del usuario es que el empleador pueda utilizar filtros y criterios de selección para revisar y elegir al chambeador más adecuado entre las solicitudes recibidas. Esto facilita la toma de decisiones informadas y asegura que el empleador elija al candidato que mejor se ajusta a sus necesidades y requisitos específicos para el trabajo. En el caso que no desee aplicarlos podrá ver a todos los postulantes.
+
+**User goal 06:** Usuario se registra, inicia sesión y ingresa su 2FA.      
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149629979789906000/Diagrama_en_blanco_-_Pagina_1_8.png?width=1322&height=1104" width="90%" alt="User Goal 06">
+
+**Descripción:** El objetivo del usuario es completar el proceso de registro, iniciar sesión de manera segura y configurar la autenticación de dos factores (2FA) para proteger su cuenta. Esto garantiza que el usuario tenga un acceso seguro a la plataforma y una capa adicional de seguridad a través de la autenticación de dos factores. Para ello, tiene dos opciones al momento de entrar al apartado de sesión, si tiene una cuenta registrada los manda para la verificación de 2 pasos. También, hay otra toma de decisión, al momento de finalizar el registro, si es que el usuario tiene experiencia laboral previa o no podrá completar el registro de su trabajo.
+
+**User goal 07:** Chambeador  publicita su perfil y  postula a un trabajo
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149630584788877372/Diagrama_en_blanco_-_Pagina_1_9.png?width=1322&height=494" width="90%" alt="User Goal 07">
+
+**Descripción:** El objetivo del chambeador es promocionar su perfil en la plataforma, destacando sus habilidades y experiencia laboral para atraer a posibles empleadores. Además, busca trabajos relevantes en la plataforma y envía solicitudes o postulaciones para ser considerado como candidato para dichos trabajos. Esto le permite al chambeador aumentar sus oportunidades de encontrar trabajos adecuados y conseguir oportunidades de empleo.
+
+**User goal 08:** Chambeador realiza configuraciones de perfil  y añade métodos de pago
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149631352103239763/Diagrama_en_blanco_-_Pagina_1_10.png?width=1216&height=1226" alt="User Goal 08">
+
+**Descripción:** El objetivo del usuario chambeador es personalizar y configurar su perfil en la plataforma, lo que incluye proporcionar información relevante sobre sus habilidades y experiencia laboral, así como agregar métodos de pago para recibir pagos por los trabajos que realice a través de la plataforma. Esto le permite al chambeador tener un perfil completo y estar listo para buscar y aceptar trabajos de acuerdo a sus preferencias y necesidades de pago.
+
+**User goal 09:** Chambeador agrega un certificado a su perfil
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1149632116074758194/Diagrama_en_blanco_-_Pagina_1_11.png?width=1866&height=1242" width="90%" alt="User Goal 09">
+
+**Descripción:** El objetivo del chambeador es enriquecer su perfil al agregar un certificado que respalda sus habilidades y experiencia. Esto aumenta su credibilidad ante los empleadores y mejora sus posibilidades de ser seleccionado para trabajos relevantes en la plataforma. Para ello, el chambeador debe completar el proceso de registro y luego acceder a su perfil para agregar un certificado.
+
 ## 4.5. Web Applications Prototyping
 
 Este es nuestro link de Figma, donde se encuentra el prototipo de alta fidelidad de nuestra aplicación web. 👇🏻👇🏻 </br>
