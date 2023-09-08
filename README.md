@@ -2962,6 +2962,11 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1149464293402746961/Diagrama_en_blanco_2.png" alt="Class diagram"  width="90%"/>
+</div> 
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
