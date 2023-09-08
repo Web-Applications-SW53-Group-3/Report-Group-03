@@ -2940,6 +2940,18 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines
+
+**Branding:**
+- El ícono de nuestro proyecto captura el apretón de dos manos entrelazadas, un poderoso símbolo de la comunión entre individuos. Con esta representación, buscamos plasmar de manera elocuente la estrecha conexión que nuestros valiosos usuarios experimentarán al unirse a nuestra comunidad.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1146508424524349480/ChambeaPeconFondo.png" alt="Branding"  width="50%"/>
+</div>
+</br>
+
+**Typography:**
+- La tipografía de nuestro logotipo adoptará el elegante estilo Roboto, reconocido por su modernidad y su atractivo visual para nuestros usuarios. Este estilo no solo refleja la innovación y la creatividad que caracterizarán a nuestra aplicación, sino que también resalta la vanguardia que buscamos transmitir.
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
