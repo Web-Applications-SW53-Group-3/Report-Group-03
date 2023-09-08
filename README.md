@@ -2998,6 +2998,13 @@ Además, el uso de unidades relativas como rem en lugar de píxeles puede ayudar
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+Al entrar a nuestra aplicación aplicación, el usuario podrá visualizar 4 secciones: el perfil, los perfiles de chambeadores, las publicaciones de trabajo y las notificaciones. En cada una de estas, el usuario contará con distintas acciones con las que podrá interactuar.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626084358193254/1149516472524210237/opera_jrLunJP70X.png?width=1072&height=897" alt="Organization Systems"  width="90%"/>
+</div>
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
