@@ -3004,7 +3004,43 @@ Además, el uso de unidades relativas como rem en lugar de píxeles puede ayudar
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086304600187/image.png?width=1026&height=670" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086870814761/image.png?width=560&height=526" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086614982827/image.png?width=552&height=670" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433087118295181/image.png?width=561&height=240" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+
 ### 4.3.2. Landing Page Mock-up
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434091909955746/image.png?width=562&height=401" alt="version-web-mockup"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434092400680980/image.png?width=561&height=511" alt="version-web-mockup"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434092639760384/image.png?width=560&height=485" alt="version-web-mockup"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434092908200016/image.png?width=562&height=388" alt="version-web-mockup"  width="90%"/>
+</div>
+</br>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
