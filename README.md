@@ -4138,6 +4138,31 @@ Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript S
 - Evitar declarar variables con var y usar *let* o *const* en su lugar
 
 ### 5.1.4. Software Deployment Configuration
+
+**Landing Page:** En este caso, se utilizó el servicio "GitHub Pages" para desplegar la aplicación de manera automática desde una rama de GitHub. Este servicio generará un enlace con un dominio específico que permitirá acceder a la página. El proceso se lleva a cabo de la siguiente manera:
+
+1. Después de lanzar la versión final al repositorio y asegurarse de que las ramas estén actualizadas, se accede a la plataforma GitHub.
+   
+   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149635769321930825/image.png?width=2880&height=1082" width="90%" alt="Paso 01">
+   
+2. A continuación, se selecciona el repositorio del proyecto en cuestión.
+   
+   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149635342014627881/image.png?width=2130&height=1242" width="90%" alt="Paso 02">
+   
+3. Luego, se hace clic en la pestaña llamada "Settings
+   
+   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149636431581552720/image.png?width=2132&height=1242" width="90%" alt="Paso 03">
+
+4. Luego, activas el GitHub Pages en la sección de GitHub Pages y seleccionas la rama que contiene el código de la aplicación.
+
+   <img src="https://media.discordapp.net/attachments/1142626132357828689/1149510946637750383/image.png?width=1522&height=1242" width="90%" alt="Paso 04">
+
+5. Finalmente, se genera un enlace con el dominio específico que permite acceder a la aplicación.
+
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149633659696054333/image.png?width=2304&height=1240" width="90%" alt="Prototipo">
+    
+    **Link de la landing page:** https://web-applications-sw53-group-3.github.io/Landing-Page/
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
