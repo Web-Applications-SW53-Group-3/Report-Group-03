@@ -2958,6 +2958,13 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+
+Se presenta el diagrama de contexto, donde el Sistema "ChambeaPe" es usado por tres clases de usuarios: Employer o Empleador, aquel que publica las ofertas de trabajo; Worker o Trabajador, aquel que ofrece sus servicios para el trabajo; y el Operator u Operador, empleados que manejas y dan soporte al sistema. Asimismo, el sistema principal se conecta con sistemas externos como el sistema de correo y de pago.
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149577738823409724/structurizr-85893-Context.png" alt="context-diagram"  width="90%"/>
+</div>
+</br>
+
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
