@@ -4712,7 +4712,21 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<br><br>
+El landing page fue creado por el equipo usando el modelo de gitflow, que consiste en usar diferentes ramas para trabajar en cada parte, optimizarlo y ponerlo al día. El beneficio de emplear este modelo es que facilita actualizar y hacer cambios para después mostrarlos y verificar que no exista ningún problema al fusionarlos con la rama principal. Seguidamente, se muestra el conocimiento que obtuvo el equipo mediante la plataforma GitHub.
+
+- Nuetro Gitflow se representa de la siguiente manera:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149763951350005770/Gitflow.png" alt="gitflow"  width="90%"/>
+</div>
+</br>
+
+- Las contribuciones de cada integrante del equipo se muestran a continuación:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149763951568093245/Contribuciones.png" alt="contributions"  width="90%"/>
+</div>
+</br><br>
 
 # Conclusiones 
 ## Conclusiones y recomendaciones
