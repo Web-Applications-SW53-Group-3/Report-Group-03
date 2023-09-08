@@ -3609,6 +3609,12 @@ A continuación explicaremos detalladamente cada clase con sus atributos y méto
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+A continuación presentaremos el Database Diagram:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1038843215094227044/1149508720963887114/Database_ChambeaPe.png" alt="Database diagram"  width="90%"/>
+</div> 
+
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
