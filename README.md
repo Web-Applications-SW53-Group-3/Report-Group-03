@@ -123,9 +123,59 @@
 <br><br>
 
 # Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones | 
-|:---|:-----|:-----|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software|||
+
+Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de 
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro 
+del ABET – EAC - Student Outcome 5.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td> TB1<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Trabajamos de manera colaborativa para distribuir todas las tareas de la entrega, realizar una tormenta de ideas y colaborar de forma efectiva en cada etapa del proyecto.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
+        <br><br>
+   </td>
+    <td>TB1<br><br>
+    Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
+  </tr>
+  <tr>
+    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td> TB1<br><br>
+         <b>Steve Roger Castillo Robles</b><br>
+        - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Realizamos un estudio detallado de cada uno de nuestros grupos objetivo en el proyecto, con el fin de garantizar que nuestra aplicación cumpla con todas las necesidades de nuestros usuarios objetivo.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Realicé una entrevista a un miembro de uno de los grupos objetivo con el objetivo de obtener información relevante para llevar a cabo algunos de los aspectos del trabajo.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
+        <br><br>
+   </td>
+    <td>TB1<br><br>
+    Se recopiló la información necesaria para poder enfrentar a los competidores y ofrecer un producto innovador basado en la tecnología.</td>
+  </tr>
+</table>
+
 <br><br>
 
 ## Capítulo I: Introducción
