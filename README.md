@@ -4797,6 +4797,25 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 # Conclusiones 
 ## Conclusiones y recomendaciones
 
+- Mediante el análisis de la competencia, hemos obtenido una visión clara de nuestras fortalezas y áreas de mejora, lo que nos ha capacitado para presentar un servicio que satisface plenamente las necesidades del público.
+
+- Las Historias de Usuario nos permiten sumergirnos en la perspectiva de los usuarios, comprendiendo a fondo sus expectativas respecto a un servicio innovador destinado a superar los desafíos que enfrentan.
+
+- Las entrevistas con nuestros segmentos objetivo han sido pilares fundamentales de nuestro proyecto, proporcionándonos información valiosa que nos ha ayudado a entender las necesidades y emociones de nuestros usuarios. Estas conversaciones nos han inspirado a diseñar una aplicación que trasciende las meras funcionalidades esperadas. Nos comprometemos a aplicar estas percepciones para desarrollar una solución que genere un impacto positivo en la vida de nuestros usuarios.
+
+- La incorporación de UXPRESSIA ha sido esencial en nuestra metodología, brindándonos valiosas herramientas como perfiles de usuario y mapas de impacto. Estas herramientas nos han permitido profundizar en las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.
+
+- La adopción de Notion como plataforma de organización ha proporcionado un espacio versátil y colaborativo para gestionar nuestro proyecto de manera eficiente. Esto ha mejorado sustancialmente nuestra comunicación y seguimiento de tareas en equipo, aumentando nuestra productividad y enfocándonos en los objetivos del proyecto.
+
+- La combinación de GitBash y GitHub como elementos esenciales en nuestro flujo de trabajo ha resultado en una gestión de versiones y colaboración efectiva en el desarrollo de software. Esto ha garantizado un control preciso sobre el código fuente y ha simplificado la colaboración entre desarrolladores, asegurando la estabilidad y calidad de nuestro producto.
+
+- La elección de Vertabelo para la creación de diagramas de base de datos ha demostrado ser acertada. Este enfoque visual ha simplificado la comprensión y comunicación de la estructura de la base de datos tanto para el equipo técnico como para los stakeholders no técnicos, contribuyendo a una toma de decisiones más informada y a un diseño de base de datos más sólido.
+
+- Lucichard, como herramienta para crear diagramas de clases, nos ha permitido modelar y visualizar eficazmente la arquitectura de nuestro sistema, lo que ha sido esencial para garantizar una implementación coherente y una comprensión compartida de la estructura de nuestro software entre los miembros del equipo de desarrollo.
+
+- La adopción de Trello como plataforma para gestionar el backlog de productos ha simplificado la planificación y priorización de tareas. Esto ha facilitado la adaptación continua a las cambiantes necesidades del proyecto y ha asegurado que nuestras entregas sean más eficaces y estén alineadas con los objetivos del negocio.
+
+
 <br><br>
 
 # Bibliografía
