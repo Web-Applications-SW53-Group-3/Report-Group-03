@@ -22,6 +22,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
+|TB1|05/09/2023|  Todos los integrantes del equipo|Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se diseñaron los mockups y prototipos de la página de inicio en base a la información obtenida. Por último, se creó la página de inicio con la ayuda del sprint backlog para tener un control de los avances.| 
 
 <br><br>
 
@@ -123,9 +124,59 @@
 <br><br>
 
 # Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones | 
-|:---|:-----|:-----|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software|||
+
+Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de 
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro 
+del ABET – EAC - Student Outcome 5.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td> TB1<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Trabajamos de manera colaborativa para distribuir todas las tareas de la entrega, realizar una tormenta de ideas y colaborar de forma efectiva en cada etapa del proyecto.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
+        <br><br>
+   </td>
+    <td>TB1<br><br>
+    Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
+  </tr>
+  <tr>
+    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td> TB1<br><br>
+         <b>Steve Roger Castillo Robles</b><br>
+        - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Realizamos un estudio detallado de cada uno de nuestros grupos objetivo en el proyecto, con el fin de garantizar que nuestra aplicación cumpla con todas las necesidades de nuestros usuarios objetivo.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Realicé una entrevista a un miembro de uno de los grupos objetivo con el objetivo de obtener información relevante para llevar a cabo algunos de los aspectos del trabajo.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
+        <br><br>
+   </td>
+    <td>TB1<br><br>
+    Se recopiló la información necesaria para poder enfrentar a los competidores y ofrecer un producto innovador basado en la tecnología.</td>
+  </tr>
+</table>
+
 <br><br>
 
 ## Capítulo I: Introducción
@@ -4746,6 +4797,25 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 # Conclusiones 
 ## Conclusiones y recomendaciones
 
+- Mediante el análisis de la competencia, hemos obtenido una visión clara de nuestras fortalezas y áreas de mejora, lo que nos ha capacitado para presentar un servicio que satisface plenamente las necesidades del público.
+
+- Las Historias de Usuario nos permiten sumergirnos en la perspectiva de los usuarios, comprendiendo a fondo sus expectativas respecto a un servicio innovador destinado a superar los desafíos que enfrentan.
+
+- Las entrevistas con nuestros segmentos objetivo han sido pilares fundamentales de nuestro proyecto, proporcionándonos información valiosa que nos ha ayudado a entender las necesidades y emociones de nuestros usuarios. Estas conversaciones nos han inspirado a diseñar una aplicación que trasciende las meras funcionalidades esperadas. Nos comprometemos a aplicar estas percepciones para desarrollar una solución que genere un impacto positivo en la vida de nuestros usuarios.
+
+- La incorporación de UXPRESSIA ha sido esencial en nuestra metodología, brindándonos valiosas herramientas como perfiles de usuario y mapas de impacto. Estas herramientas nos han permitido profundizar en las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.
+
+- La adopción de Notion como plataforma de organización ha proporcionado un espacio versátil y colaborativo para gestionar nuestro proyecto de manera eficiente. Esto ha mejorado sustancialmente nuestra comunicación y seguimiento de tareas en equipo, aumentando nuestra productividad y enfocándonos en los objetivos del proyecto.
+
+- La combinación de GitBash y GitHub como elementos esenciales en nuestro flujo de trabajo ha resultado en una gestión de versiones y colaboración efectiva en el desarrollo de software. Esto ha garantizado un control preciso sobre el código fuente y ha simplificado la colaboración entre desarrolladores, asegurando la estabilidad y calidad de nuestro producto.
+
+- La elección de Vertabelo para la creación de diagramas de base de datos ha demostrado ser acertada. Este enfoque visual ha simplificado la comprensión y comunicación de la estructura de la base de datos tanto para el equipo técnico como para los stakeholders no técnicos, contribuyendo a una toma de decisiones más informada y a un diseño de base de datos más sólido.
+
+- Lucichard, como herramienta para crear diagramas de clases, nos ha permitido modelar y visualizar eficazmente la arquitectura de nuestro sistema, lo que ha sido esencial para garantizar una implementación coherente y una comprensión compartida de la estructura de nuestro software entre los miembros del equipo de desarrollo.
+
+- La adopción de Trello como plataforma para gestionar el backlog de productos ha simplificado la planificación y priorización de tareas. Esto ha facilitado la adaptación continua a las cambiantes necesidades del proyecto y ha asegurado que nuestras entregas sean más eficaces y estén alineadas con los objetivos del negocio.
+
+
 <br><br>
 
 # Bibliografía
@@ -4762,3 +4832,13 @@ agosto del 2023, de
 <br><br>
 
 # Anexos
+
+- Link de la landing page: https: //web-applications-sw53-group-3.github.io/Landing-Page/
+- Sprint Backlog: https://trello.com/b/mfAT1Gn2/sprint-backlog
+- Criterios de aceptación:
+  https://github.com/Web-Applications-SW53-Group-3/Acceptance-Tests/tree/develop
+- Organization: https://github.com/Web-Applications-SW53-Group-3
+- Landing Page Repository: https://github.com/Web-Applications-SW53-Group-3/Landing-Page
+- Report Repository: https://github.com/Web-Applications-SW53-Group-3/Report-Group-03
+- Base de datos: https://lucid.app/lucidchart/67216ac7-0bcb-4138-bcaa-72cd86a76871/edit?invitationId=inv_5845fc93-f426-4c3d-94dd-f522c9d4c11f
+https://my.vertabelo.com/doc/xCMKKhOAvoi3DjIpzNX6xyP9wZ1JoB7O
