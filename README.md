@@ -4794,6 +4794,234 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 </div>
 </br><br>
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 1
+
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            25/09/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 2, nuestro equipo de desarrollo se centró en implementar mejoras sustanciales en la aplicación ChambeaPe. Logramos completar con éxito todas las historias de usuario y tareas planificadas para este sprint, lo que incluyó la implementación exitosa de funciones clave. Esto abarcó desde la habilitación de un inicio de sesión y registro, permitiendo a los usuarios acceder de manera segura, hasta la visualización de perfiles para que los empleadores puedan evaluar a los chambeadores antes de contratarlos. Además, facilitamos la gestión de anuncios de trabajo, permitiendo a los empleadores crear, editar y eliminar anuncios con facilidad. En resumen, el sprint fue un éxito gracias a la colaboración y comunicación efectiva de nuestro equipo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para este sprint se planea desarrollar avances del front-end de la aplicación web. Se planea desarrollar las funcionalidades de inicio de sesión, registro, visualización de perfiles de chambeadores, creación de anuncios de trabajo, cambio de contraseña y recuperación de contraseña. Asimismo hemos organizado las tareas a realizar en el tablero de Trello y hemos asignado a cada miembro del equipo las tareas que le corresponden. Para nuestro despliegue vamos a usar la plataforma de Google Firebase.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            4
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            15
+        </td>
+    </tr>
+</table>
+</br>
+<br>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Iniciar Sesión</td>
+       <td>T01</td>
+       <td>Implementar inicio de sesión exitoso</td>
+       <td>Desarrollar la funcionalidad para permitir que los usuarios inicien sesión con su correo y contraseña correctamente.</td>
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar inicio de sesión fallido</td>
+       <td>Desarrollar la funcionalidad para mostrar un mensaje de error cuando los usuarios ingresan credenciales incorrectas.</td>
+       <td>1.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar recuperación de contraseñas</td>
+       <td>Desarrollar la funcionalidad para permitir a los usuarios recuperar su contraseña mediante un proceso de restablecimiento.</td>
+       <td>2.5</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US02</td>
+       <td rowspan="3">Registrar con correo</td>
+       <td>T01</td>
+       <td>Implementar registro exitoso</td>
+       <td>Desarrollar la funcionalidad para que los usuarios puedan registrarse con su correo electrónico y contraseña de manera exitosa.</td>
+       <td>3</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar registro fallido - Correo Inválido</td>
+       <td>Desarrollar la funcionalidad para mostrar un mensaje de error cuando los usuarios ingresan un correo electrónico inválido durante el registro.</td>
+       <td>2</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar registro fallido - Contraseña Inválida</td>
+       <td>Desarrollar la funcionalidad para mostrar un mensaje de error cuando los usuarios ingresan una contraseña inválida durante el registro.</td>
+       <td>1</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>US14</td>
+       <td>Visualizar perfiles de chambeadores</td>
+       <td>T01</td>
+       <td>Implementar visualización de perfiles</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan ver los perfiles de los chambeadores y evaluar su experiencia y estilo de trabajo antes de contratarlos.</td>
+       <td>4</td>
+       <td>Ray Allesandro</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td rowspan="4">US15</td>
+       <td rowspan="4">Visualizar perfiles de chambeadores</td>
+       <td>T01</td>
+       <td>Implementar creación de anuncios de trabajo</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan crear anuncios de trabajo en la aplicación web.</td>
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar edición de anuncios de trabajo</td>
+       <td>Desarrollar la funcionalidad para permitir a los empleadores filtrar perfiles por antigüedad mínima.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar eliminación de anuncios de trabajo</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan eliminar sus anuncios de trabajo cuando ya no los necesiten.</td>
+       <td>3.5</td>
+       <td>Steve Castiilo</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Implementar visualización de anuncios de trabajo creados</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan ver una lista de los anuncios de trabajo que han creado en la aplicación.</td>
+       <td>3.5</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+   </table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 # Conclusiones 
 ## Conclusiones y recomendaciones
 
@@ -4814,9 +5042,6 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 - Lucichard, como herramienta para crear diagramas de clases, nos ha permitido modelar y visualizar eficazmente la arquitectura de nuestro sistema, lo que ha sido esencial para garantizar una implementación coherente y una comprensión compartida de la estructura de nuestro software entre los miembros del equipo de desarrollo.
 
 - La adopción de Trello como plataforma para gestionar el backlog de productos ha simplificado la planificación y priorización de tareas. Esto ha facilitado la adaptación continua a las cambiantes necesidades del proyecto y ha asegurado que nuestras entregas sean más eficaces y estén alineadas con los objetivos del negocio.
-
-
-<br><br>
 
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
