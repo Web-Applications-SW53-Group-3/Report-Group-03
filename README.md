@@ -4,7 +4,7 @@
 <hr>
 
 # <center>COURSE PROJECT</center>
-## TB1 REPORT
+## TP REPORT
 
 ## StartUp Name
 ### Team Members:
@@ -19,7 +19,6 @@
 <br><br>
 
 # Registro de Versiones del Informe
-
 
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
@@ -116,15 +115,7 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-        - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
-        - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
-        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -148,7 +139,7 @@ del ABET – EAC - Student Outcome 5.
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
@@ -164,28 +155,10 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
    </td>
     <td>TB1<br><br>
-    Seleccionamos crear una aplicación destinada a empleadores y trabajadores eventuales, en la cual desarrollamos enunciados del problema y declaraciones de hipótesis para evaluar el alcance del desarrollo y proporcionar una solución efectiva a las necesidades de ambos grupos.</td>
+    Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
   </tr>
   <tr>
-    <td> TP<br><br>
-         <b>Steve Roger Castillo Robles </b><br>
-        - Nuestra sólida organización y planificación nos permitieron establecer de manera efectiva todos los puntos clave para el desarrollo exitoso de nuestro primer avance en la Aplicación Web Frontend.
-        <br><br> 
-         <b>Diego Mauricio Castro Soto</b><br>
-        - La colaboración activa y las reuniones efectivas entre el equipo de trabajo mejoraron significativamente nuestra capacidad para distribuir tareas, realizar tormentas de ideas y avanzar en cada etapa del proyecto de manera eficiente.
-        <br><br>
-        <b>Jennifer Mary Espinoza Quispe</b><br>
-        - Gracias a nuestra meticulosa organización, logramos identificar y mejorar varios aspectos clave en la ejecución de nuestro plan de desarrollo, lo que contribuyó a un progreso más fluido y efectivo.
-        <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
-        - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
-        <br><br>
-   </td>
-    <td>TP<br><br>
-    Se seleccionaron cuidadosamente las user stories que abordaríamos en nuestro nuevo sprint para el desarrollo del Frontend Application Web, asegurando así un enfoque claro y efectivo en la implementación de las funcionalidades esenciales.</td>
-  </tr>
-  <tr>
-    <td rowspan="2"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles</b><br>
         - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
@@ -203,25 +176,9 @@ del ABET – EAC - Student Outcome 5.
     <td>TB1<br><br>
     Se recopiló la información necesaria para poder enfrentar a los competidores y ofrecer un producto innovador basado en la tecnología.</td>
   </tr>
-  <tr>
-    <td> TP<br><br>
-         <b>Steve Roger Castillo Robles </b><br>
-        - Nuestro análisis cuidadoso nos permitió seleccionar con precisión las user stories que utilizaríamos en el desarrollo, lo que resultó en una solución altamente adaptada a las necesidades del sector con falta de apoyo.
-        <br><br> 
-         <b>Diego Mauricio Castro Soto</b><br>
-        - La implementación exitosa de los mockups en nuestra aplicación reflejó nuestro compromiso en ofrecer una solución innovadora y visualmente efectiva para abordar las carencias del sector en cuestión.
-        <br><br>
-        <b>Jennifer Mary Espinoza Quispe</b><br>
-        - A través de un riguroso sprint planning, pudimos analizar minuciosamente los puntos de mejora, lo que contribuyó significativamente a la optimización de nuestro proceso de desarrollo y al fortalecimiento de nuestra solución.
-        <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
-        - La exitosa implementación de los user stories seleccionados durante el sprint en nuestra Aplicación Web Frontend demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
-        <br><br>
-   </td>
-    <td>TP<br><br>
-    Hemos alcanzado un hito significativo en nuestro proyecto al lograr con éxito el primer avance de la Aplicación Web Frontend, implementando con destreza y eficacia la solución en Angular. Este logro demuestra nuestro compromiso con la excelencia en el desarrollo y nos impulsa hacia el cumplimiento de nuestros objetivos.</td>
-  </tr>
 </table>
+
+<br><br>
 
 ## Capítulo I: Introducción
 ## 1.1. StartUp Profile
@@ -232,7 +189,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1156371563462012988/SteveTerno.png?ex=6514ba71&is=651368f1&hm=d05c74182c340b15dac29465470e8796d438f002b90109fb6e85479f0562f471&=&width=932&height=1242" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446949110173706/Steve.jpg?width=511&height=681" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -328,7 +285,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
     </tr>
     <tr align="center">
         <td rowspan="3">
-                        <img src="https://i.imgur.com/SQ3MPq7.png" alt="Diego Castro"  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446947642146888/Castro.jpg" alt="Diego Castro"  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -5066,8 +5023,10 @@ En esta sección se especifican los detalles del Sprint Backlog.
    </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
-<<<<<<< HEAD
+Repositorio Github: https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App
+
 <table align="left" border="1" width="100%">
     <tr>
         <th >Repository</th>
@@ -5471,11 +5430,6 @@ En esta sección se especifican los detalles del Sprint Backlog.
         <td>2023-09-19</td>
     </tr>
 </table>
-=======
-A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
-
-Repositorio Github: https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App
->>>>>>> dac99e86964e710c30b3e3c377eee7c8b4c3d2a0
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -5504,9 +5458,6 @@ En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplic
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-<<<<<<< HEAD
-
-=======
 A continuación de presentaran las capturas de las vistas más relevantes que se llebaron a cabo en este segundo sprint. También, se adjunta el enlace de la aplicación web desplegada en Firebase.
 - Web Application Deployment: https://chambeapeweb.web.app/#/
 - Web Application Repository: https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App 
@@ -5564,7 +5515,6 @@ A continuación de presentaran las capturas de las vistas más relevantes que se
 </div>
 
 </br>
->>>>>>> dac99e86964e710c30b3e3c377eee7c8b4c3d2a0
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -5642,13 +5592,6 @@ Al igual que en el primer sprint, continuaremos utilizando el servicio de implem
 
 - La adopción de Trello como plataforma para gestionar el backlog de productos ha simplificado la planificación y priorización de tareas. Esto ha facilitado la adaptación continua a las cambiantes necesidades del proyecto y ha asegurado que nuestras entregas sean más eficaces y estén alineadas con los objetivos del negocio.
 
-- Vue.js proporciona una serie de herramientas y funcionalidades para mejorar la experiencia del usuario en aplicaciones web. La reactividad declarativa, la capacidad de composición de componentes y la facilidad de integrar Vue con otras bibliotecas permiten la creación de interfaces de usuario dinámicas y atractivas. Esto contribuye a la retención de usuarios y al éxito general de la aplicación.
-
-- Utilizar Vue.js como framework de desarrollo web ofrece una mayor eficiencia en el proceso de desarrollo. Su enfoque basado en componentes, la simplicidad de su sistema de reactividad y la flexibilidad en la integración con otras bibliotecas y proyectos simplifican la organización y mantenimiento del código. Esto se traduce en un desarrollo más ágil y en la capacidad de mantener y escalar la aplicación de manera más sencilla. 
-
-- Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requisitos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
-
-
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
 trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
@@ -5677,5 +5620,3 @@ agosto del 2023, de
 - Report Repository: https://github.com/Web-Applications-SW53-Group-3/Report-Group-03
 - Base de datos: https://lucid.app/lucidchart/67216ac7-0bcb-4138-bcaa-72cd86a76871/edit?invitationId=inv_5845fc93-f426-4c3d-94dd-f522c9d4c11f
 https://my.vertabelo.com/doc/xCMKKhOAvoi3DjIpzNX6xyP9wZ1JoB7O
-- Sprint Backlog: https://trello.com/b/Gefw1vfY/ATTIacaa4de609b1f27260ebda8a38ba5cf871CA4074/sprint-backlog-02
-- Aplicación Web: https://chambeapeweb.web.app/#/
