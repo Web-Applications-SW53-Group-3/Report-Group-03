@@ -20,9 +20,11 @@
 
 # Registro de Versiones del Informe
 
+
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
-|TB1|05/09/2023|  Todos los integrantes del equipo|Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se diseñaron los mockups y prototipos de la página de inicio en base a la información obtenida. Por último, se creó la página de inicio con la ayuda del sprint backlog para tener un control de los avances.| 
+|TB1|05/09/2023|  Todos los integrantes del equipo|Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se diseñaron los mockups y prototipos de la página de inicio en base a la información obtenida. Por último, se creó la página de inicio con la ayuda del sprint backlog para tener un control de los avances.|
+|TP|26/09/2023|  Todos los integrantes del equipo|En resúmen, en el proceso de desarrollo de nuestra Aplicación Web Frontend, comenzamos por cuidadosamente seleccionar los user stories que formarían parte de nuestro primer avance. Luego, procedimos a implementar estos user stories en Angular, basándonos en los mockups que habíamos previamente diseñado. Finalmente, culminamos esta fase al desplegar con éxito el frontend de nuestra aplicación web, logrando así un hito significativo en el proceso de desarrollo.| 
 
 <br><br>
 
@@ -114,7 +116,15 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
+        - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -138,7 +148,7 @@ del ABET – EAC - Student Outcome 5.
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td rowspan="2"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
@@ -154,10 +164,28 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
    </td>
     <td>TB1<br><br>
-    Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
+    Seleccionamos crear una aplicación destinada a empleadores y trabajadores eventuales, en la cual desarrollamos enunciados del problema y declaraciones de hipótesis para evaluar el alcance del desarrollo y proporcionar una solución efectiva a las necesidades de ambos grupos.</td>
   </tr>
   <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td> TP<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Nuestra sólida organización y planificación nos permitieron establecer de manera efectiva todos los puntos clave para el desarrollo exitoso de nuestro primer avance en la Aplicación Web Frontend.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La colaboración activa y las reuniones efectivas entre el equipo de trabajo mejoraron significativamente nuestra capacidad para distribuir tareas, realizar tormentas de ideas y avanzar en cada etapa del proyecto de manera eficiente.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Gracias a nuestra meticulosa organización, logramos identificar y mejorar varios aspectos clave en la ejecución de nuestro plan de desarrollo, lo que contribuyó a un progreso más fluido y efectivo.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
+        <br><br>
+   </td>
+    <td>TP<br><br>
+    Se seleccionaron cuidadosamente las user stories que abordaríamos en nuestro nuevo sprint para el desarrollo del Frontend Application Web, asegurando así un enfoque claro y efectivo en la implementación de las funcionalidades esenciales.</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles</b><br>
         - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
@@ -175,9 +203,25 @@ del ABET – EAC - Student Outcome 5.
     <td>TB1<br><br>
     Se recopiló la información necesaria para poder enfrentar a los competidores y ofrecer un producto innovador basado en la tecnología.</td>
   </tr>
+  <tr>
+    <td> TP<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Nuestro análisis cuidadoso nos permitió seleccionar con precisión las user stories que utilizaríamos en el desarrollo, lo que resultó en una solución altamente adaptada a las necesidades del sector con falta de apoyo.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La implementación exitosa de los mockups en nuestra aplicación reflejó nuestro compromiso en ofrecer una solución innovadora y visualmente efectiva para abordar las carencias del sector en cuestión.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - A través de un riguroso sprint planning, pudimos analizar minuciosamente los puntos de mejora, lo que contribuyó significativamente a la optimización de nuestro proceso de desarrollo y al fortalecimiento de nuestra solución.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - La exitosa implementación de los user stories seleccionados durante el sprint en nuestra Aplicación Web Frontend demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
+        <br><br>
+   </td>
+    <td>TP<br><br>
+    Hemos alcanzado un hito significativo en nuestro proyecto al lograr con éxito el primer avance de la Aplicación Web Frontend, implementando con destreza y eficacia la solución en Angular. Este logro demuestra nuestro compromiso con la excelencia en el desarrollo y nos impulsa hacia el cumplimiento de nuestros objetivos.</td>
+  </tr>
 </table>
-
-<br><br>
 
 ## Capítulo I: Introducción
 ## 1.1. StartUp Profile
@@ -188,7 +232,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446949110173706/Steve.jpg?width=511&height=681" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1156371563462012988/SteveTerno.png?ex=6514ba71&is=651368f1&hm=d05c74182c340b15dac29465470e8796d438f002b90109fb6e85479f0562f471&=&width=932&height=1242" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -284,7 +328,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446947642146888/Castro.jpg" alt="Diego Castro"  style="margin-bottom: 5px;" width="600"/>
+                        <img src="https://i.imgur.com/SQ3MPq7.png" alt="Diego Castro"  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -5022,13 +5066,153 @@ En esta sección se especifican los detalles del Sprint Backlog.
    </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+
+A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio Github: https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplicación web de ChambeaPe como primera instancia. Por ello no se evidencia el Testing Suite en este spring Boot.
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+<br><br>
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+A continuación de presentaran las capturas de las vistas más relevantes que se llebaron a cabo en este segundo sprint. También, se adjunta el enlace de la aplicación web desplegada en Firebase.
+- Web Application Deployment: https://chambeapeweb.web.app/#/
+- Web Application Repository: https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App 
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091137186705458/image.png?ex=65175898&is=65160718&hm=de78038d816e778d963a4d93aef485cceaa5e4344afedf0d7184cf9266541e43&=&width=1620&height=798" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091235060789258/image.png?ex=651758b0&is=65160730&hm=c920690b451fa5f33e2708e0112af70de3b8c426d90bf6bbac51f50f03397cb8&=&width=1620&height=801" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091561260199987/image.png?ex=651758fd&is=6516077d&hm=70b86ba6cd15cb51b2ad4d96eba5a1f9438b0972cb7835be19fe6746cfa3b8be&=&width=1620&height=804" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091632202645584/image.png?ex=6517590e&is=6516078e&hm=a1bb29e61535d0bdfb6be5c03f0525f7ac07caf2639d12f23ce72a6eb45ccd12&=&width=1620&height=801" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091702419496971/image.png?ex=6517591f&is=6516079f&hm=e929e86b4fdb5f6a1dca20255e3a5f288747c8ae7b28cadeecff707cd363e4cd&=&width=1620&height=750" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091792844497057/image.png?ex=65175935&is=651607b5&hm=058aa0d840751888e821f5ade35097ff749f480de5b695eba309962bb71a5738&=&width=1620&height=801" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091890190102548/image.png?ex=6517594c&is=651607cc&hm=4e57d420bf338cd3326617c0480bf54e6194fb674539e35ee88b14f5700237f6&=&width=1620&height=807" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157091971639283812/image.png?ex=6517595f&is=651607df&hm=aa502b164d317ef692b7f1e0b8e1c39fc06e799ed926028e067092bb735e0298&=&width=1620&height=805" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157092095857795102/image.png?ex=6517597d&is=651607fd&hm=4941faf8817a2b3ceedfdb4e5ecfa46c64790a2c77fd46142b0bd76fb4c5d82c&=&width=1620&height=805" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157092338930307163/image.png?ex=651759b7&is=65160837&hm=6a51f7b068ea7ae46291dbdd2bd336a367b627044065b478731192f89bb7f51e&=&width=1620&height=807" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157102104800940115/image.png?ex=651762cf&is=6516114f&hm=7905b4af026e7dae695650db45f00c560ea8fcf2baf2423acb965fe40e5e8b82&=&width=1392&height=814" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157102167656775720/image.png?ex=651762de&is=6516115e&hm=e8f1ccbac5c59f040596d775d2e595db9911304ea83505d91f813f645839c016&=&width=1414&height=814" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157102253434478622/image.png?ex=651762f3&is=65161173&hm=60eadc818ef87a59ec18e94bc37df9fd01ad900ec651954a2e3832de9dc410fe&=&width=1419&height=814" alt="APP-1"  width="70%"/>
+</div>
+
+</br>
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos para nuestro poyecto con la herramienta mockAPI. Para así realizar el crud de publiaciones, hacer el login y registro de los usuarios.
+(https://65110b963ce5d181df5da5df.mockapi.io/api/chambeape/post)
+
+<table align="left" border="1" width="100%">
+        <tr>
+            <th>Services</th>
+            <th>Evidencia</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <th>Url Base</th>
+            <td>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1157103798473465909/image.png?ex=65176463&is=651612e3&hm=96cc668e205eff283f143d6904f9c8533101b101350e0bed5c7ba702282eef1f&=&width=1393&height=814" alt="MockApi"  width="100%"> <img>
+            </td>
+            <td>MockAPI nos brindó este API con los datos que nosotros ingresamosen formato Json</td>
+        </tr>
+        <tr>
+            <th>EmployerPostService</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1157103358058967120/image.png?ex=651763fa&is=6516127a&hm=d23b54e9ee5addceb5befe58478bd407eb7908ccc6080185dc2c2131c3160dbb&=&width=900&height=814"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio. </td>
+        </tr>
+        <tr>
+            <th>LoginService</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1157103417664225320/image.png?ex=65176408&is=65161288&hm=a12d488e3946cfae2cb40e005bf5b33813332f5f60a0ed260a54c60147a1afb8&=&width=1021&height=814"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "login".</td>
+        </tr>
+        <tr>
+            <th>WorkerProfileService</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1157103472785756251/image.png?ex=65176415&is=65161295&hm=ae0ede76a9757686f963dd7624e4920aaa2714ecdfd5abfecb3543385672df1b&=&width=1362&height=814" alt="Trello-Sprint-2"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "worker profile".</td>
+        </tr>
+    </table>
+
+<br><br>
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Al igual que en el primer sprint, continuaremos utilizando el servicio de implementación automática de Firebase Hosting. Por lo tanto, seguiremos los mismos pasos mencionados en el sprint anterior, con la única diferencia de que seleccionaremos el nuevo repositorio de la aplicación web en Firebase para desplegarla.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1157105372520267947/cufhvx44o66bb32ll2l8.jpg?ex=651765da&is=6516145a&hm=1e2dd3a867284b9cd519b5e8496eb6097fa91522cff92c49d516a2ca787b5431&=&width=1447&height=814" alt="APP-1"  width="70%"/>
+</div>
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1157089475126628362/image.png?ex=6517570c&is=6516058c&hm=39671935aa79ea7cbdf6dc3886fd7c1e7b64cfa155f090f7561fad61bf4d837e&=&width=1620&height=468" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1157089374161358899/image.png?ex=651756f4&is=65160574&hm=fbe356035cc2edd6b12a319807902f07c39ce7a1a219e6c500c71aa9cd92d32e&=&width=1620&height=525" alt="APP-1"  width="70%"/>
+</div>
+
 # Conclusiones 
-## Conclusiones y recomendaciones
 
 - Mediante el análisis de la competencia, hemos obtenido una visión clara de nuestras fortalezas y áreas de mejora, lo que nos ha capacitado para presentar un servicio que satisface plenamente las necesidades del público.
 
@@ -5048,6 +5232,13 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 - La adopción de Trello como plataforma para gestionar el backlog de productos ha simplificado la planificación y priorización de tareas. Esto ha facilitado la adaptación continua a las cambiantes necesidades del proyecto y ha asegurado que nuestras entregas sean más eficaces y estén alineadas con los objetivos del negocio.
 
+- Vue.js proporciona una serie de herramientas y funcionalidades para mejorar la experiencia del usuario en aplicaciones web. La reactividad declarativa, la capacidad de composición de componentes y la facilidad de integrar Vue con otras bibliotecas permiten la creación de interfaces de usuario dinámicas y atractivas. Esto contribuye a la retención de usuarios y al éxito general de la aplicación.
+
+- Utilizar Vue.js como framework de desarrollo web ofrece una mayor eficiencia en el proceso de desarrollo. Su enfoque basado en componentes, la simplicidad de su sistema de reactividad y la flexibilidad en la integración con otras bibliotecas y proyectos simplifican la organización y mantenimiento del código. Esto se traduce en un desarrollo más ágil y en la capacidad de mantener y escalar la aplicación de manera más sencilla. 
+
+- Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requisitos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
+
+
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
 trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
@@ -5058,6 +5249,10 @@ trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
 tienen problemas para encontrar trabajo*. Rpp. Recuperado el 23 de
 agosto del 2023, de
 <https://rpp.pe/economia/economia/empleo-8-de-cada-10-jovenes-dicen-tener-problemas-para-encontrar-trabajo-noticia-1428867?ref=rpp>
+
+3. Redacción RPP. (2022, 01 de septiembre). Empleo: 8 de cada 10 jóvenes tienen problemas para encontrar trabajo. Rpp. Recuperado el 23 de agosto del 2023, de <https://rpp.pe/economia/economia/empleo-8-de-cada-10-jovenes-dicen-tener-problemas-para-encontrar-trabajo-noticia-1428867?ref=rpp>
+
+
 
 <br><br>
 
@@ -5072,3 +5267,5 @@ agosto del 2023, de
 - Report Repository: https://github.com/Web-Applications-SW53-Group-3/Report-Group-03
 - Base de datos: https://lucid.app/lucidchart/67216ac7-0bcb-4138-bcaa-72cd86a76871/edit?invitationId=inv_5845fc93-f426-4c3d-94dd-f522c9d4c11f
 https://my.vertabelo.com/doc/xCMKKhOAvoi3DjIpzNX6xyP9wZ1JoB7O
+- Sprint Backlog: https://trello.com/b/Gefw1vfY/ATTIacaa4de609b1f27260ebda8a38ba5cf871CA4074/sprint-backlog-02
+- Aplicación Web: https://chambeapeweb.web.app/#/
