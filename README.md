@@ -5022,8 +5022,416 @@ En esta sección se especifican los detalles del Sprint Backlog.
    </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=56 >ChambeaPe-App</td>
+        <td>develop</td>
+        <td>2e953ff</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #19 from Web-Applications-SW53-Group-3/feature/job-responosive</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>feature/job-responosive</td>
+        <td>af07584</td>
+        <td>Steve Castillo</td>
+        <td>feat: add responsive</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>fc2deef</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #18 from Web-Applications-SW53-Group-3/feature/globalization</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>05b00cc</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge branch 'feature/globalization' of https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App into feature/globalization</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>eceda73</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement i18n in some components</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0a602c3</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #17 from Web-Applications-SW53-Group-3/feature/refactor</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/refactor</td>
+        <td>1a82a5e</td>
+        <td>Diego Castro</td>
+        <td>feat: add refactoring</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/refactor</td>
+        <td>189f524</td>
+        <td>Diego Castro</td>
+        <td>feat: add routes</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0a276d4</td>
+        <td>Diego Esquivel</td>
+        <td>Merge pull request #16 from Web-Applications-SW53-Group-3/Feature/language</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/language</td>
+        <td>f802154</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add language-selector</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>d33de95</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: change message i18n</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>4ca55c7</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #15 from Web-Applications-SW53-Group-3/feature/google-login</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/google-login</td>
+        <td>aa15ae7</td>
+        <td>Diego Castro</td>
+        <td>feat: add login redirection</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/login-redirection</td>
+        <td>263ba33</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #14 from Web-Applications-SW53-Group-3/feature/login-redirection</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/login-redirection</td>
+        <td>3976805</td>
+        <td>Diego Castro</td>
+        <td>feat: add login redirection</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>4202da4</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #13 from Web-Applications-SW53-Group-3/feature/job-post-http</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/job-post-http</td>
+        <td>c8e4720</td>
+        <td>Diego Castro</td>
+        <td>feat: add post creation</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>16e7d5b</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #12 from Web-Applications-SW53-Group-3/feature/responsive</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/responsive</td>
+        <td>5a14c35</td>
+        <td>Steve Castillo</td>
+        <td>feat: add responsive</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>64ecf29</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #11 from Web-Applications-SW53-Group-3/feature/globalization</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>5d27daa</td>
+        <td>Jennifer Espinoza</td>
+        <td>fix: update i18n</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>1f1ce24</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement messages i18n</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/job-post</td>
+        <td>89917aa</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #10 from Web-Applications-SW53-Group-3/feature/job-post</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ea054e4</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #9 from Web-Applications-SW53-Group-3/Feature/home</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>d7ca8bb</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add home path</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>d02c0a2</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add top-worker component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>dced036</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add top-employer component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>2e0049d</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add seeker component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>31f0517</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add home component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>296e1c0</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #8 from Web-Applications-SW53-Group-3/Feature/reset_password</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>ced37da</td>
+        <td>Diego Esquivel</td>
+        <td>fix: modify login component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>74ec4db</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add updated-password component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>c73a181</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add new-password component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>8f6be48</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add verification-code component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>c4eb672</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add forgot-password component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/job-post</td>
+        <td>803d8da</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement employer's job posts</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c9b0b34</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/register</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>87064d1</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge branch 'develop' into feature/register</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>2484dec</td>
+        <td>Jennifer Espinoza</td>
+        <td>fix: change path</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>e6791b9</td>
+        <td>Jennifer Espinoza</td>
+        <td>fix: mofidy register form</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>f1e413b</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add register form</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>02cb5cd</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #6 from Web-Applications-SW53-Group-3/feature/employer-post-edit</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/employer-post-edit</td>
+        <td>8e390de</td>
+        <td>Diego Castro</td>
+        <td>feat: add edit and delete employer post</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c20bd2f</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #5 from Web-Applications-SW53-Group-3/feature/worker-profile</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/worker-profile</td>
+        <td>2eefb02</td>
+        <td>Diego Castro</td>
+        <td>feat: add worker-profile component and service</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>6e759a9</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #4 from Web-Applications-SW53-Group-3/feature/employer-myposts</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/employer-myposts</td>
+        <td>bfb63cf</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer 'my posts' component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>d1c286b</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/employer-post</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/employer-post</td>
+        <td>c95b741</td>
+        <td>Diego Castro</td>
+        <td>Merge branch 'develop' into feature/employer-post</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/employer-post</td>
+        <td>4d47427</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer-post services</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>e35953f</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/navigation</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/navigation</td>
+        <td>af4bdaa</td>
+        <td>Steve Castillo</td>
+        <td>feat:add nav component</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ee17a89</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/login</td>
+        <td>2023-09-24</td>
+    </tr>
+    <tr>
+        <td>feature/login</td>
+        <td>a303475</td>
+        <td>Diego Castro</td>
+        <td>feat: add login services</td>
+        <td>2023-09-24</td>
+    </tr>
+    <tr>
+        <td>feature/login</td>
+        <td>aedaeb2</td>
+        <td>Diego Castro</td>
+        <td>feat: add login styles</td>
+        <td>2023-09-20</td>
+    </tr>
+    <tr>
+        <td>feature/login</td>
+        <td>35be50d</td>
+        <td>Diego Castro</td>
+        <td>feat: add login component</td>
+        <td>2023-09-19</td>
+    </tr>
+</table>
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
