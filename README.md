@@ -5601,6 +5601,12 @@ Al igual que en el primer sprint, continuaremos utilizando el servicio de implem
 
 - La adopción de Trello como plataforma para gestionar el backlog de productos ha simplificado la planificación y priorización de tareas. Esto ha facilitado la adaptación continua a las cambiantes necesidades del proyecto y ha asegurado que nuestras entregas sean más eficaces y estén alineadas con los objetivos del negocio.
 
+- Vue.js proporciona una serie de herramientas y funcionalidades para mejorar la experiencia del usuario en aplicaciones web. La reactividad declarativa, la capacidad de composición de componentes y la facilidad de integrar Vue con otras bibliotecas permiten la creación de interfaces de usuario dinámicas y atractivas. Esto contribuye a la retención de usuarios y al éxito general de la aplicación.
+
+- Utilizar Vue.js como framework de desarrollo web ofrece una mayor eficiencia en el proceso de desarrollo. Su enfoque basado en componentes, la simplicidad de su sistema de reactividad y la flexibilidad en la integración con otras bibliotecas y proyectos simplifican la organización y mantenimiento del código. Esto se traduce en un desarrollo más ágil y en la capacidad de mantener y escalar la aplicación de manera más sencilla. 
+
+- Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requisitos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
+
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
 trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
