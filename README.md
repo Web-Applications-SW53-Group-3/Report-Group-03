@@ -4,7 +4,7 @@
 <hr>
 
 # <center>COURSE PROJECT</center>
-## TP REPORT
+## TB2 REPORT
 
 ## StartUp Name
 ### Team Members:
@@ -19,6 +19,7 @@
 <br><br>
 
 # Registro de Versiones del Informe
+
 
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
@@ -116,15 +117,14 @@
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
-        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-1)
+        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-1)
         - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
         - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
         - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -2759,7 +2759,7 @@ Les presentamos nuestro [Product Backlog](https://trello.com/b/KONj0nS6/product-
             Como chambeador quiero manejar mis certificados para tener una mejor oportunidad laboral.
         </td>
         <td>
-            5
+            8
         </td>
     </tr>
     <tr>
@@ -2895,7 +2895,7 @@ Les presentamos nuestro [Product Backlog](https://trello.com/b/KONj0nS6/product-
             Como usuario, quiero manejar la información de mi perfil para mantener mis datos personales actualizados.
         </td>
         <td>
-            2
+            3
         </td>
     </tr>
     <tr>
@@ -2946,7 +2946,7 @@ Les presentamos nuestro [Product Backlog](https://trello.com/b/KONj0nS6/product-
             Como empleador quiero quiero dejar una reseña sobre la experiencia con el chambeador después de que el trabajo se haya completado para calificar su servicio.
         </td>
         <td>
-            2
+            5
         </td>
     </tr>
     <tr>
@@ -3029,6 +3029,23 @@ Les presentamos nuestro [Product Backlog](https://trello.com/b/KONj0nS6/product-
         </td>
         <td>
             Como empleador quiero poder visualizar los perfiles de los chambeadores, para evaluar su experiencia y estilo de trabajo antes de contratarlos.
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            24
+        </td>
+        <td>
+            24
+        </td>
+        <td>
+            Página no encontrada
+        </td>
+        <td>
+            Como usuario quiero visualizar un apartado especial cuando no sea la ruta correcta para saber que estoy ingresando un ruta erronea.
         </td>
         <td>
             1
@@ -5066,413 +5083,10 @@ En esta sección se especifican los detalles del Sprint Backlog.
    </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+
 A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
 Repositorio Github: https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App
-
-<table align="left" border="1" width="100%">
-    <tr>
-        <th >Repository</th>
-        <th >Branch</th>
-        <th>Commit ID</th>
-        <th>Author</th>
-        <th>Message</th>
-        <th>Time ago</th>
-    </tr>
-    <tr>
-        <td rowspan=56 >ChambeaPe-App</td>
-        <td>develop</td>
-        <td>2e953ff</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #19 from Web-Applications-SW53-Group-3/feature/job-responosive</td>
-        <td>2023-09-28</td>
-    </tr>
-    <tr>
-        <td>feature/job-responosive</td>
-        <td>af07584</td>
-        <td>Steve Castillo</td>
-        <td>feat: add responsive</td>
-        <td>2023-09-28</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>fc2deef</td>
-        <td>Jennifer Espinoza</td>
-        <td>Merge pull request #18 from Web-Applications-SW53-Group-3/feature/globalization</td>
-        <td>2023-09-28</td>
-    </tr>
-    <tr>
-        <td>feature/globalization</td>
-        <td>05b00cc</td>
-        <td>Jennifer Espinoza</td>
-        <td>Merge branch 'feature/globalization' of https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App into feature/globalization</td>
-        <td>2023-09-28</td>
-    </tr>
-    <tr>
-        <td>feature/globalization</td>
-        <td>eceda73</td>
-        <td>Jennifer Espinoza</td>
-        <td>feat: implement i18n in some components</td>
-        <td>2023-09-28</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>0a602c3</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #17 from Web-Applications-SW53-Group-3/feature/refactor</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/refactor</td>
-        <td>1a82a5e</td>
-        <td>Diego Castro</td>
-        <td>feat: add refactoring</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/refactor</td>
-        <td>189f524</td>
-        <td>Diego Castro</td>
-        <td>feat: add routes</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>0a276d4</td>
-        <td>Diego Esquivel</td>
-        <td>Merge pull request #16 from Web-Applications-SW53-Group-3/Feature/language</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/language</td>
-        <td>f802154</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add language-selector</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/globalization</td>
-        <td>d33de95</td>
-        <td>Jennifer Espinoza</td>
-        <td>feat: change message i18n</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>4ca55c7</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #15 from Web-Applications-SW53-Group-3/feature/google-login</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/google-login</td>
-        <td>aa15ae7</td>
-        <td>Diego Castro</td>
-        <td>feat: add login redirection</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/login-redirection</td>
-        <td>263ba33</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #14 from Web-Applications-SW53-Group-3/feature/login-redirection</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/login-redirection</td>
-        <td>3976805</td>
-        <td>Diego Castro</td>
-        <td>feat: add login redirection</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>4202da4</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #13 from Web-Applications-SW53-Group-3/feature/job-post-http</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/job-post-http</td>
-        <td>c8e4720</td>
-        <td>Diego Castro</td>
-        <td>feat: add post creation</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>16e7d5b</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #12 from Web-Applications-SW53-Group-3/feature/responsive</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/responsive</td>
-        <td>5a14c35</td>
-        <td>Steve Castillo</td>
-        <td>feat: add responsive</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>64ecf29</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #11 from Web-Applications-SW53-Group-3/feature/globalization</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/globalization</td>
-        <td>5d27daa</td>
-        <td>Jennifer Espinoza</td>
-        <td>fix: update i18n</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/globalization</td>
-        <td>1f1ce24</td>
-        <td>Jennifer Espinoza</td>
-        <td>feat: implement messages i18n</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/job-post</td>
-        <td>89917aa</td>
-        <td>Jennifer Espinoza</td>
-        <td>Merge pull request #10 from Web-Applications-SW53-Group-3/feature/job-post</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>ea054e4</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #9 from Web-Applications-SW53-Group-3/Feature/home</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/home</td>
-        <td>d7ca8bb</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add home path</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/home</td>
-        <td>d02c0a2</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add top-worker component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/home</td>
-        <td>dced036</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add top-employer component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/home</td>
-        <td>2e0049d</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add seeker component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/home</td>
-        <td>31f0517</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add home component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>296e1c0</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #8 from Web-Applications-SW53-Group-3/Feature/reset_password</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/reset_password</td>
-        <td>ced37da</td>
-        <td>Diego Esquivel</td>
-        <td>fix: modify login component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/reset_password</td>
-        <td>74ec4db</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add updated-password component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/reset_password</td>
-        <td>c73a181</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add new-password component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/reset_password</td>
-        <td>8f6be48</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add verification-code component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>Feature/reset_password</td>
-        <td>c4eb672</td>
-        <td>Diego Esquivel</td>
-        <td>feat: add forgot-password component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/job-post</td>
-        <td>803d8da</td>
-        <td>Jennifer Espinoza</td>
-        <td>feat: implement employer's job posts</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>c9b0b34</td>
-        <td>Jennifer Espinoza</td>
-        <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/register</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>87064d1</td>
-        <td>Jennifer Espinoza</td>
-        <td>Merge branch 'develop' into feature/register</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/register</td>
-        <td>2484dec</td>
-        <td>Jennifer Espinoza</td>
-        <td>fix: change path</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/register</td>
-        <td>e6791b9</td>
-        <td>Jennifer Espinoza</td>
-        <td>fix: mofidy register form</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/register</td>
-        <td>f1e413b</td>
-        <td>Jennifer Espinoza</td>
-        <td>feat: add register form</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>02cb5cd</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #6 from Web-Applications-SW53-Group-3/feature/employer-post-edit</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/employer-post-edit</td>
-        <td>8e390de</td>
-        <td>Diego Castro</td>
-        <td>feat: add edit and delete employer post</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>c20bd2f</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #5 from Web-Applications-SW53-Group-3/feature/worker-profile</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/worker-profile</td>
-        <td>2eefb02</td>
-        <td>Diego Castro</td>
-        <td>feat: add worker-profile component and service</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>6e759a9</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #4 from Web-Applications-SW53-Group-3/feature/employer-myposts</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>feature/employer-myposts</td>
-        <td>bfb63cf</td>
-        <td>Diego Castro</td>
-        <td>feat: add employer 'my posts' component</td>
-        <td>2023-09-27</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>d1c286b</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/employer-post</td>
-        <td>2023-09-25</td>
-    </tr>
-    <tr>
-        <td>feature/employer-post</td>
-        <td>c95b741</td>
-        <td>Diego Castro</td>
-        <td>Merge branch 'develop' into feature/employer-post</td>
-        <td>2023-09-25</td>
-    </tr>
-    <tr>
-        <td>feature/employer-post</td>
-        <td>4d47427</td>
-        <td>Diego Castro</td>
-        <td>feat: add employer-post services</td>
-        <td>2023-09-25</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>e35953f</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/navigation</td>
-        <td>2023-09-25</td>
-    </tr>
-    <tr>
-        <td>feature/navigation</td>
-        <td>af4bdaa</td>
-        <td>Steve Castillo</td>
-        <td>feat:add nav component</td>
-        <td>2023-09-25</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>ee17a89</td>
-        <td>Diego Castro</td>
-        <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/login</td>
-        <td>2023-09-24</td>
-    </tr>
-    <tr>
-        <td>feature/login</td>
-        <td>a303475</td>
-        <td>Diego Castro</td>
-        <td>feat: add login services</td>
-        <td>2023-09-24</td>
-    </tr>
-    <tr>
-        <td>feature/login</td>
-        <td>aedaeb2</td>
-        <td>Diego Castro</td>
-        <td>feat: add login styles</td>
-        <td>2023-09-20</td>
-    </tr>
-    <tr>
-        <td>feature/login</td>
-        <td>35be50d</td>
-        <td>Diego Castro</td>
-        <td>feat: add login component</td>
-        <td>2023-09-19</td>
-    </tr>
-</table>
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -5615,6 +5229,298 @@ Al igual que en el primer sprint, continuaremos utilizando el servicio de implem
     <img src="https://media.discordapp.net/attachments/1145583761182965852/1157089374161358899/image.png?ex=651756f4&is=65160574&hm=fbe356035cc2edd6b12a319807902f07c39ce7a1a219e6c500c71aa9cd92d32e&=&width=1620&height=525" alt="APP-1"  width="70%"/>
 </div>
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            24/10/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            15:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 2, se logró desarrollar vistas de front-end y se implemntó un faso RESTful API con la ayuda de la aplicación MockAPI para simular el comportamiento de un servidor. Se logró implementar las funcionalidades de visualización de perfiles de chambeadores, creación de anuncios de trabajo, edición de anuncios de trabajo y eliminación de anuncios de trabajo. También se añadieron las funcionalidades de inicio de sesión, registro, visualización de perfiles de chambeadores, creación de anuncios de trabajo, cambio de contraseña y recuperación de contraseña. Cabe destacar que faltó la valicación en los formularios y la implementación responsive. Por último, desplegamos la aplicación web en google firebase.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para el prsente sprint 3 se plantea avanzar con las vistas core faltantes en el front-end como el manejo de certificados, la implementación del chat con el usuario, el reseñar al chambeador, administrar tarjetas, entre otros. 
+        En este spring se planea comenzar a desarrollar el RESTful API con el framework de Spring Boot y la base de datos MySQL. Al finalizar este sprint se espera tener un prototipo funcional de la aplicación web y comenzar a trabajar en el despliegue de la aplicación en un servidor.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+</table>
+</br>
+<br>
+
+#### 5.2.3.2. Sprint Backlog 3
+En esta sección se especifican los detalles del Sprint Backlog.
+
+- [Click aqui para ver el Trello]()
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="4">US-03</td>
+       <td rowspan="4">Manejar información del perfil</td>
+       <td>T01</td>
+       <td>Implementar informacion del perfil</td>
+       <td>Desarrollar funcionalidad del Carrusel de trabajos del chambeador </td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar espacio de información del usuario</td>
+       <td>Desarrollar funcionalidad que permite al empleador ver el apartado del perfil del usuario  </td>
+       <td>1.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Agregar apartado de certificados y comentarios</td>
+       <td>Desarrollar la funcionalidad para permitir a los empleadores ver solo el ultimo certificado y ultimo comentario del chambeador.</td>
+       <td>1,5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar API de perfil</td>
+       <td>Desarrollar la funcionalidad para permitir contruir un endpoint para el perfil de los chambeadores</td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US12</td>
+       <td rowspan="3">Comunicar entre empleado y chambeador</td>
+       <td>T01</td>
+       <td>Implementar Chat empleador y chambeador</td>
+       <td>Desarrollar componentes visuales del chat para que los empleadores y los chambeadores interactuen durante el proyecto a desarrollar.</td>
+       <td>4</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar CSS </td></td>
+       <td>Desarrollar la funcionalidad para hacer nuestro chat responsive e interactivo.</td>
+       <td>2</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar chat con Websocket</td>
+       <td>Desarrollar de un sistema de chat que permita la comunicación entre el usuario chambeador y empleador</td>
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>In progress</td>
+    </tr>
+    </tr>
+    <tr>
+       <td rowspan="2">US-5</td>
+       <td rowspan="2">Reseñar empleador al chambeador</td>
+        <td>T01</td>
+        <td>Implementar crear una reseña</td>
+        <td>Desarrollar la funcionalidad para que los empleadores puedan reseñar a los chambeadores con lo que ha trabajado.</td>
+        <td>3</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+        <td>Implementar CSS</td>
+        <td>Agregar estilos en los componentes y hacelro responsive</td>
+        <td>0,5</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+    </tr> 
+    <tr>
+       <td rowspan="3">US-18</td>
+       <td rowspan="3">Personalizar interface de usuario</td>
+        <td>T01</td>
+        <td>Configurar apartado apariencia</td>
+        <td>Implementar componente de configuracion en el aplicativo.</td>
+        <td>1</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+        <td>Adaptar Idioma</td>
+        <td>Implementar configuración para tener el idioma de ingles y español en nuestra web</td>
+        <td>4</td>
+        <td>Steve Castillo</td>
+        <td>To do</td>
+    </tr> 
+    <tr>
+        <td>T03</td>
+        <td>Implementar tema</td>
+        <td>Desarrollar funcionalidad para implementar tema de acuerdo al gusto del usuario, tanto claro como oscuro</td>
+        <td>2</td>
+        <td>Steve Castillo</td>
+        <td>In progress</td>
+    </tr> 
+    <tr>
+       <td rowspan="3">US-23</td>
+       <td rowspan="3">Manejar certificados</td>
+        <td>T01</td>
+        <td>Añadir y editar certificado</td>
+        <td>Desarrollar funcionalidad para editar y añadir un certificado con el mismo dialog para comodidad del usuario</td>
+        <td>4</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+        <td>Visualizar certificado</td>
+        <td>Desarrollar funcionaliad para visualizar un dialog para ver los certificados</td>
+        <td>3</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr> 
+    <tr>
+        <td>T03</td>
+        <td>Desarrollo de endpoint</td>
+        <td>Implementar endpoint para los certificados en nuestro backend con los servicios, repositorios, entre otros</td></td>
+        <td>4</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr> 
+    <tr>
+       <td rowspan="1">US-24</td>
+       <td rowspan="1">Página no encontrada</td>
+        <td>T01</td>
+        <td>Apartado de "Page not found"</td>
+        <td>Implementar vista de página no encuntrada para rutas no existentes. </td>
+        <td>0,5</td>
+        <td>Steve Castillo</td>
+        <td>Done</td>
+    </tr>
+   </table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+<br>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+## 5.3 Validation Interview
+### 5.3.1 Diseño de Entrevistas
+### 5.3.2 Registro de Entrevistas
+### 5.3.3 Evaluación según heurísticas
+
+## 5.4 Video About the Product
+
+
+
 # Conclusiones 
 
 - Mediante el análisis de la competencia, hemos obtenido una visión clara de nuestras fortalezas y áreas de mejora, lo que nos ha capacitado para presentar un servicio que satisface plenamente las necesidades del público.
@@ -5640,6 +5546,7 @@ Al igual que en el primer sprint, continuaremos utilizando el servicio de implem
 - Utilizar Vue.js como framework de desarrollo web ofrece una mayor eficiencia en el proceso de desarrollo. Su enfoque basado en componentes, la simplicidad de su sistema de reactividad y la flexibilidad en la integración con otras bibliotecas y proyectos simplifican la organización y mantenimiento del código. Esto se traduce en un desarrollo más ágil y en la capacidad de mantener y escalar la aplicación de manera más sencilla. 
 
 - Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requisitos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
+
 
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
