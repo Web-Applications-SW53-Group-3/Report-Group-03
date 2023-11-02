@@ -913,7 +913,7 @@ Apellidos: Ampudia Flores
 
 Edad: 19 
 
-Distrito: Monterrico
+Distrito: Surco
 
 Evidencia de la reunión:
 <div align=center>
