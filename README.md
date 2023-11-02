@@ -5514,8 +5514,209 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 ## 5.3 Validation Interview
 ### 5.3.1 Diseño de Entrevistas
+Para la entrevista se realizaron las siguientes preguntas:
+
+- Preguntas generales:
+    - ¿Cómo te llamas?
+    - ¿Cuántos años tienes?
+    - ¿Dónde vives actualmente?
+    - ¿A qué te dedicas?
+
+Segmento: Chambeador
+- Después de ver nuestra presentación, ¿crees que la aplicación abordará de manera efectiva los desafíos que enfrentas al buscar trabajos temporales o proyectos?
+- ¿Crees que ChambeaPe te ayudará a encontrar trabajos temporales de manera más eficiente?
+- ¿Encuentras que la aplicación es didáctica y fácil de entender, o tienes sugerencias para mejorarla?
+- ¿Qué opinas sobre la plantilla de diseño y la usabilidad de la aplicación?
+- ¿Con qué frecuencia usarías la aplicación para buscar trabajos temporales?
+- ¿Qué aspectos te gustan más de ChambeaPe, y hay alguna característica que sientas que falta en la aplicación?
+- ¿Estarías dispuesto a recomendar ChambeaPe a otros trabajadores por tus redes sociales?
+
+Segmento: Empleador
+- Después de ver nuestra presentación del prototipo, ¿crees que la aplicación te ayudará a encontrar candidatos para trabajos temporales o proyectos de manera efectiva?
+- ¿Crees que ChambeaPe facilita la contratación de trabajadores temporales según tus necesidades?
+- ¿Encuentras que la aplicación te proporciona candidatos con las cualidades y habilidades que buscas?
+- ¿Qué opinas sobre la plantilla de diseño y la usabilidad de la aplicación?
+- ¿Con qué frecuencia utilizarías la aplicación para buscar y contratar trabajadores temporales?
+- ¿Qué aspectos te gustan más de ChambeaPe, y hay alguna característica que sientas que falta en la aplicación desde la perspectiva del empleador?
+- ¿Estarías dispuesto a recomendar ChambeaPe a otros empleadores por tus redes sociales?
+
 ### 5.3.2 Registro de Entrevistas
 ### 5.3.3 Evaluación según heurísticas
+#### <div align="center">UX Heuristics & Principles Evaluation</div>
+
+##### <div align="center">Usability – Inclusive Design – Information Architecture</div>
+
+<b> Carrera: </b> Ingeniería de Software
+<b> Curso: </b> Aplicaciones Web
+<b> Sección: </b> SW53
+<b> Profesores: </b> TODOS
+<b> Auditor: </b> Digital Dart
+
+<b> <em> SITE O APP A EVALUAR: </em> </b> <br>
+ChambeaPe
+
+<b> <em> TAREAS A EVALUAR: </em> </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Crear cuenta
+- Crear petición de trabajo
+- Buscar trabajos
+- Ver perfil de Chambeador
+- Ver perfil de Empleador
+- Ver petición de trabajo
+- Ver trabajos
+
+No están incluídas en esta versión de la evaluación las siguientes tareas:
+
+- Ver mensajes (chat entre Chambeadores y Empleadores)
+- Ayuda, términos y condiciones, política de privacidad, información de soporte
+
+<b> <em> ESCALA DE SEVERIDAD: </em> </b> <br>
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>
+            <b>Nivel</b>
+        </th>
+        <th>
+            Descripción
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <b>1</b>
+        </td>
+        <td align="left">
+            Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>2</b>
+        </td>
+        <td align="left">
+            Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>3</b>
+        </td>
+        <td align="left">
+            Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>4</b>
+        </td>
+        <td align="left">
+            Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+        </td>
+    </tr>
+</table>
+
+<b> <em> TABLA DE RESUMEN: </em> </b> <br>
+La siguiente tabla resume los resultados de la evaluación:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>#</th>
+        <th>Problema</th>
+        <th>Escala de severidad</th>
+        <th>Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td align="left">El usuario no puede crear un perfil de Chambeador con su cuenta de Google</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td align="left">Crear una petición de trabajo es tedioso debido a la cantidad de campos requeridos</td>
+        <td>2</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td align="left">No hay un filtro especializado para encontrar el tipo de trabajo que se requiere</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td align="left">El perfil de otros Empleadores o Chambeadores no está completamente habilitado</td>
+        <td>2</td>
+        <td align="left">Usability: Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td align="left">Los trabajos no tienen una categorización específica</td>
+        <td>2</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td align="left">La lista de trabajos no tiene un filtro</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+</table>
+
+<b> <em> DESCRIPCIÓN DEL PROBLEMA: </em> </b> <br>
+
+**PROBLEMA #1:** El usuario no puede crear un perfil de Chambeador con su cuenta de Google.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso.
+<b>Problema:</b>
+El usuario no puede crear un perfil de Chambeador con su cuenta de Google. A pesar de que la opción de registro con Google está presente, no funciona correctamente, lo que puede causar frustración en los usuarios que prefieren este método de registro.
+<b>Recomedación:</b>
+Se recomienda que se corrija este error para que los usuarios puedan registrarse con su cuenta de Google. <br>
+
+**PROBLEMA #2:** Crear una petición de trabajo es tedioso debido a la cantidad de campos requeridos
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Consistencia y estándares.
+<b>Problema:</b>
+Crear una petición de trabajo es tedioso debido a la cantidad de campos requeridos. Este proceso puede ser abrumador y desalentar a los usuarios a completar la tarea.
+<b>Recomedación:</b>
+Se recomienda que se reduzca la cantidad de campos requeridos para crear una petición de trabajo. <br>
+
+**PROBLEMA #3:** No hay un filtro especializado para encontrar el tipo de trabajo que se requiere.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso
+<b>Problema:</b>
+No hay un filtro especializado para encontrar el tipo de trabajo que se requiere. Esto puede hacer que la búsqueda de trabajos sea ineficiente y frustrante para los usuarios.
+<b>Recomedación:</b>
+Se recomienda que se agregue un filtro especializado para encontrar el tipo de trabajo que se requiere. <br>
+
+**PROBLEMA #4:** El perfil de otros Empleadores o Chambeadores no está completamente habilitado
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Visibilidad del estado del sistema.
+<b>Problema:</b>
+El perfil de otros Empleadores o Chambeadores no está completamente habilitado. Esto puede limitar la capacidad de los usuarios para obtener información relevante sobre otros usuarios.
+<b>Recomedación:</b>
+Se recomienda que se habilite la mayor cantidad de información posible en los perfiles de los usuarios. <br>
+
+**PROBLEMA #5:** Los trabajos no tienen una categorización específica
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Consistencia y estándares
+<b>Problema:</b>
+Los trabajos no tienen una categorización. Esto puede dificultar la búsqueda y el filtrado de trabajos, lo que puede resultar en una experiencia de usuario subóptima.
+
+<b>Recomedación:</b>
+Se recomienda que se agregue una categorización a los trabajos. para que así los usuarios puedan filtrarlos y encontrarlos más fácilmente. <br>
+
+**PROBLEMA #6:** La lista de trabajos no tiene un filtro
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso
+<b>Problema:</b>
+La lista de trabajos no tiene un filtro habilitado. Esto puede hacer que sea difícil para los usuarios encontrar trabajos específicos, lo que puede resultar en una experiencia de usuario frustrante.
+
+<b>Recomedación:</b>
+Se recomienda que se habilite un filtro en la lista de trabajos para que los usuarios puedan encontrar trabajos específicos más fácilmente.
+
 
 ## 5.4 Video About the Product
 
