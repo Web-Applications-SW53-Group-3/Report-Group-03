@@ -5338,7 +5338,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 - [Click aqui para ver el Trello]()
 
-<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1169717990338600991/image.png?ex=65566bc5&is=6543f6c5&hm=6054e9a707c86c43178da2eb4b37000662a89a7b9e0d36ca92a0264a529a4670&=&width=2608&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
 
 
 <table align="center" border="1" width="90%" style="text-align:center">
@@ -5507,8 +5507,54 @@ En esta sección se especifican los detalles del Sprint Backlog.
 <br>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+En esta seccion, se ha trabajado el testing de nuestras 3 capas de nuestra aplicacion web, en la cual se ha realizado el testing de los los componentes y los modelos. Para ello, estamos usando herramientas como xUnit,el lenguaje de C#, Nsubstitute el framework de net7.0  entre otros. Se han avanzado los tests de las capas de API, Domain y Data.
+Además, en este spring se han desarrollado avances sólidos de los endpints de ChambeaPe, los cuales se han desarrollado con el framework de ASP.Net y la base de datos MySQL. 
+
+1. A continuación se presenta captura del archivo de testing de la capa de API.
+ <div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1169732802443481118/image.png?ex=65567990&is=65440490&hm=3ac48dad99a142487a68ed7d87bf2b3ad5652664830e306c4ea3a2542f51e560&=&width=1746&height=1242" alt="Testing"  width="90%"/>
+    </div>
+<br>
+
+1. Se presenta la captura del archivo de testing de la capa de Domain.
+   <div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1169732802443481118/image.png?ex=65567990&is=65440490&hm=3ac48dad99a142487a68ed7d87bf2b3ad5652664830e306c4ea3a2542f51e560&=&width=1746&height=1242" alt="Testing"  width="90%"/>
+    </div>
+<br>
+
+1. Se presenta la captura de pantalla del testing de la capa de datos.
+   <div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1169732802443481118/image.png?ex=65567990&is=65440490&hm=3ac48dad99a142487a68ed7d87bf2b3ad5652664830e306c4ea3a2542f51e560&=&width=1746&height=1242" alt="Testing"  width="90%"/>
+    </div>
+
+Asimismo, se presentan los commits realizados al repositorio del backend API referentes a nuestras pruebas unitarias y el desarrollo de nuestros endpoints.
+
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+<br><br>
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
