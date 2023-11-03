@@ -6213,6 +6213,18 @@ A continuación se presentan los commits realizados en el repositorio de la apli
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Nuestro equipo usó Azure para implementar la integración continua y desplegar nuestro backend en Azure Web Apps. este nos da la facilidad de usar nuestro Github para hacer deploy de este.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169731168934047896/opera_FR7CK18jPE.png?ex=6556780b&is=6544030b&hm=acffe18279d28324e3ed5c28e4ff876a6a30b591c002ce7841783480e4f016a6&=&width=1074&height=516" alt="APP-BACKEND-1"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169731168502030451/opera_gbzPZmXRXY.png?ex=6556780b&is=6544030b&hm=17f98bc06e7707ed7e6f57e94662a9a19d2d2beae97186902a738a3afda1dcd4&=&width=1074&height=553" alt="APP-BACKEND-1"  width="90%"/>
+</div>
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 <div align=center>
