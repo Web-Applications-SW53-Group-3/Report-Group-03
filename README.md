@@ -6212,6 +6212,43 @@ A continuación se presentan los commits realizados en el repositorio de la apli
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1169764973631770664/image.png?ex=65569786&is=65442286&hm=66b247f2790077a691016cc856a5fcd33b61344c916a588a8ec683064c880aac&=&width=973&height=814" alt="ChambeapePe API"  width="100%"> <img>
+
+
+<table align="left" border="1" width="100%">
+        <tr>
+            <th>Services</th>
+            <th>Evidencia</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <th>Url Base</th>
+            <td>
+            <img src="https://media.discordapp.net/attachments/1088250517282640072/1169764973631770664/image.png?ex=65569786&is=65442286&hm=66b247f2790077a691016cc856a5fcd33b61344c916a588a8ec683064c880aac&=&width=973&height=814" alt="API"  width="100%"> <img>
+            </td>
+            <td>Es este es nuestro swagger del API de chambea pe que maneja todos los controladores</td>
+        </tr>
+        <tr>
+            <th>Employer</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1169789490844409987/image.png?ex=6556ae5c&is=6544395c&hm=e1f15035966d87fa14bdb226783ce968cc149f23c9d335f815a7c7525f5a161b&=&width=1213&height=814"  width="100%"></td>
+            <td>Endpoint Employer </td>
+        </tr>
+        <tr>
+            <th>LoginService</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1157103417664225320/image.png?ex=65176408&is=65161288&hm=a12d488e3946cfae2cb40e005bf5b33813332f5f60a0ed260a54c60147a1afb8&=&width=1021&height=814"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "login".</td>
+        </tr>
+        <tr>
+            <th>WorkerProfileService</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1157103472785756251/image.png?ex=65176415&is=65161295&hm=ae0ede76a9757686f963dd7624e4920aaa2714ecdfd5abfecb3543385672df1b&=&width=1362&height=814" alt="Trello-Sprint-2"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "worker profile".</td>
+        </tr>
+    </table>
+
+<br><br>
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
