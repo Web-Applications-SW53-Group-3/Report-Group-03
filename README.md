@@ -25,6 +25,7 @@
 |:-------:|:-----:|:-----:|:----------------------------| 
 |TB1|05/09/2023|  Todos los integrantes del equipo|Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se diseñaron los mockups y prototipos de la página de inicio en base a la información obtenida. Por último, se creó la página de inicio con la ayuda del sprint backlog para tener un control de los avances.|
 |TP|26/09/2023|  Todos los integrantes del equipo|En resúmen, en el proceso de desarrollo de nuestra Aplicación Web Frontend, comenzamos por cuidadosamente seleccionar los user stories que formarían parte de nuestro primer avance. Luego, procedimos a implementar estos user stories en Angular, basándonos en los mockups que habíamos previamente diseñado. Finalmente, culminamos esta fase al desplegar con éxito el frontend de nuestra aplicación web, logrando así un hito significativo en el proceso de desarrollo.| 
+|TB2|01/11/2023|  Todos los integrantes del equipo |  En resumen, el proceso de desarrollo de nuestra aplicación web backend comenzó con una revisión exhaustiva de la base de datos para asegurarnos de tener una base sólida. Luego, creamos el proyecto en .NET y organizamos las carpetas y la distribución del trabajo. Al mismo tiempo, creamos unit tests bien pensados para ayudar a detectar errores en el backend. Finalmente, desplegamos la aplicación en Azure Web Apps. | 
 
 <br><br>
 
@@ -148,7 +149,7 @@ del ABET – EAC - Student Outcome 5.
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td rowspan="3"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
@@ -185,7 +186,26 @@ del ABET – EAC - Student Outcome 5.
     Se seleccionaron cuidadosamente las user stories que abordaríamos en nuestro nuevo sprint para el desarrollo del Frontend Application Web, asegurando así un enfoque claro y efectivo en la implementación de las funcionalidades esenciales.</td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td> TB2<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Las entrevistas desempeñaron un papel fundamental en la mejora de nuestra plataforma web. El feedback recibido resultó invaluable para perfeccionar nuestro proyecto. A través de esta retroalimentación, hemos fortalecido nuestra capacidad para satisfacer las necesidades de nuestros usuarios y ofrecer una plataforma más efectiva y funcional.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Realizamos una nueva versión del servicio, implementando las mejoras continúas recibidas de la entrega anterior.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Se implementaron mejoras en la funcionalidad principal de la aplicación, optimizando su rendimiento y aumentando la eficiencia del sistema. También se corrigieron varios errores reportados por los usuarios para ofrecer una experiencia más fluida y sin interrupciones.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - Se realizaron mejoras en la aplicación web para mejorar la experiencia de usuario al realizar una reserva. Además, de pulir el diseño de algunos componentes y colaborar en el desarrollo con los otros miembros del equipo.
+        <br><br>
+   </td>
+    <td>TB2<br><br>
+    Se desarrollaron nuevas vistas en la parte del Front-end, así como también se implementó el Back-end de nuestra aplicación.</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="3"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles</b><br>
         - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
@@ -220,6 +240,24 @@ del ABET – EAC - Student Outcome 5.
    </td>
     <td>TP<br><br>
     Hemos alcanzado un hito significativo en nuestro proyecto al lograr con éxito el primer avance de la Aplicación Web Frontend, implementando con destreza y eficacia la solución en Angular. Este logro demuestra nuestro compromiso con la excelencia en el desarrollo y nos impulsa hacia el cumplimiento de nuestros objetivos.</td>
+  </tr>
+  <tr>
+    <td> TB2<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Se realizaron entrevistas a ambos sectores para recaudar información sobre qué mejoras y nuevas funcionalidades se pueden añadir a nuestra aplicación web.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Se llevó a cabo un análisis exhaustivo de la retroalimentación de los usuarios, identificando áreas clave de mejora en nuestra aplicación web. Posteriormente, se diseñaron y desarrollaron nuevas características y funcionalidades para abordar las necesidades y desafíos identificados, mejorando así la experiencia del usuario.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Se implementaron los servicios para las respectivas entidades, cumpliendo con los requerimientos funcionales y no funcionales, y también la lógica de negocio. Además de consumirlo desde las aplicaciones web.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - Nuestra habilidad para comunicar de manera objetiva en el ámbito de la ingeniería, específicamente en el desarrollo de nuestra plataforma web, se ha enriquecido a través del proceso de entrevistas. Esta retroalimentación ha contribuido significativamente a mejorar nuestra comunicación escrita, permitiéndonos conectar eficazmente con audiencias de diversas especialidades y niveles jerárquicos.
+        <br><br>
+   </td>
+    <td>TB2<br><br>
+    Realizamos una nueva versión del servicio, el cual seguirá recibiendo mejoras continuas por parte de nuestro equipo de trabajo.</td>
   </tr>
 </table>
 
@@ -6343,7 +6381,7 @@ JSON de respuesta de un post
 
 JSON de respuesta de un certificate
 
-<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802731393908806/opera_XEFscIqW1T.png?ex=6556bab1&is=654445b1&hm=aa0567e9058b082d271f248a7297680992f126e770d06bc34d80dd15f384b1d4&=&width=1185&height=897" alt="JSON Certificate  width="100%"> <img>
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802731393908806/opera_XEFscIqW1T.png?ex=6556bab1&is=654445b1&hm=aa0567e9058b082d271f248a7297680992f126e770d06bc34d80dd15f384b1d4&=&width=1185&height=897" alt="JSON Certificate"  width="100%"> <img>
 
 JSON de respuesta de un chambeador
 
@@ -6399,6 +6437,31 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 <div align=center>
     <img src="https://media.discordapp.net/attachments/1088250517282640072/1169731168502030451/opera_gbzPZmXRXY.png?ex=6556780b&is=6544030b&hm=17f98bc06e7707ed7e6f57e94662a9a19d2d2beae97186902a738a3afda1dcd4&=&width=1074&height=553" alt="APP-BACKEND-1"  width="90%"/>
 </div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169813566149378098/1.jpg?ex=6556c4c8&is=65444fc8&hm=6d01b8ee34b2719a5fd4b2b738ea383c27f556c7bb5ca6bf323b6df804192cb9&=&width=508&height=302" alt="APP-BACKEND-2"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169813565658632334/2.jpg?ex=6556c4c8&is=65444fc8&hm=a878b8a9c62a86faee6e9ace38fe15bf8485abac6e513032a785170f7f5093cb&=&width=925&height=125" alt="APP-BACKEND-3"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169813565348257792/3.jpg?ex=6556c4c8&is=65444fc8&hm=84f3528755edbedaffe059956df1d9f6bf79d1ac6372fec5cb250d405105d16e&=&width=913&height=565" alt="APP-BACKEND-4"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169813566984044674/4.jpg?ex=6556c4c8&is=65444fc8&hm=dbfdb5c9f3aee0dc181dce4b8dcc714637fee4af540cfdd7884c637e24d2763e&=&width=920&height=570" alt="APP-BACKEND-5"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169813566698819724/5.jpg?ex=6556c4c8&is=65444fc8&hm=b13e6d43747e2bfe680bf71c5d4c35b80ef555935372733ee4a2c91b61d0c442&=&width=886&height=361" alt="APP-BACKEND-6"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169813566426193930/6.jpg?ex=6556c4c8&is=65444fc8&hm=f68fba3a5e8988acf79edfe20f072736aa60799e9eec0f9c5b7ee7487128eb43&=&width=801&height=897" alt="APP-BACKEND-7"  width="90%"/>
+</div>
+
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
