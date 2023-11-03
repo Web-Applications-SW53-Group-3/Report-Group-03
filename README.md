@@ -913,7 +913,7 @@ Apellidos: Ampudia Flores
 
 Edad: 19 
 
-Distrito: Surco
+Distrito: Monterrico
 
 Evidencia de la reunión:
 <div align=center>
@@ -3466,7 +3466,7 @@ Este es nuestro link de Figma, donde se encuentra el prototipo de alta fidelidad
 
 Se presenta el diagrama de contexto, donde el Sistema "ChambeaPe" es usado por tres clases de usuarios: Employer o Empleador, aquel que publica las ofertas de trabajo; Worker o Trabajador, aquel que ofrece sus servicios para el trabajo; y el Operator u Operador, empleados que manejas y dan soporte al sistema. Asimismo, el sistema principal se conecta con sistemas externos como el sistema de correo y de pago.
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149577738823409724/structurizr-85893-Context.png" alt="context-diagram"  width="90%"/>
+    <img src="https://cdn.discordapp.com/attachments/1088250517282640072/1169736092250034246/opera_PpkkeMMkkd.png?ex=65567ca1&is=654407a1&hm=85560dc110076f22366ce9beba8a4e91096d42d2e20c5f57b6eae93b5fa5e064&" alt="context-diagram"  width="90%"/>
 </div>
 </br>
 
@@ -3474,7 +3474,7 @@ Se presenta el diagrama de contexto, donde el Sistema "ChambeaPe" es usado por t
 
 Se presenta el diagrama de contenedores. Existe una aplicación web para cada usuario, con el fin de separar por diferentes funcionalidades. Estas tres aplicaciones web se conectan a un API Gateway, el cual funciona como punto de entrada. Este último se conecta a los cuatro servicios que presenta el sistema: servicio de búsqueda, servicio de publicación, servicio de pago y servicio de autenticación y seguridad. Todos se conectan a una base de datos del sistema. 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149326691307630612/structurizr-85893-Container.png?width=1030&height=670" alt="container-diagram"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169736154581569676/opera_dz1fxF3SZv.png?ex=65567caf&is=654407af&hm=f730e7717584f25e4c352332c03e654ca6633f3825ba6c067495efdda44a4853&=&width=1048&height=681" alt="container-diagram"  width="90%"/>
 </div>
 </br>
 
@@ -5086,6 +5086,410 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
+<table align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=56 >ChambeaPe-App</td>
+        <td>develop</td>
+        <td>2e953ff</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #19 from Web-Applications-SW53-Group-3/feature/job-responosive</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>feature/job-responosive</td>
+        <td>af07584</td>
+        <td>Steve Castillo</td>
+        <td>feat: add responsive</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>fc2deef</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #18 from Web-Applications-SW53-Group-3/feature/globalization</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>05b00cc</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge branch 'feature/globalization' of https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App into feature/globalization</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>eceda73</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement i18n in some components</td>
+        <td>2023-09-28</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0a602c3</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #17 from Web-Applications-SW53-Group-3/feature/refactor</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/refactor</td>
+        <td>1a82a5e</td>
+        <td>Diego Castro</td>
+        <td>feat: add refactoring</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/refactor</td>
+        <td>189f524</td>
+        <td>Diego Castro</td>
+        <td>feat: add routes</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0a276d4</td>
+        <td>Diego Esquivel</td>
+        <td>Merge pull request #16 from Web-Applications-SW53-Group-3/Feature/language</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/language</td>
+        <td>f802154</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add language-selector</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>d33de95</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: change message i18n</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>4ca55c7</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #15 from Web-Applications-SW53-Group-3/feature/google-login</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/google-login</td>
+        <td>aa15ae7</td>
+        <td>Diego Castro</td>
+        <td>feat: add login redirection</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/login-redirection</td>
+        <td>263ba33</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #14 from Web-Applications-SW53-Group-3/feature/login-redirection</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/login-redirection</td>
+        <td>3976805</td>
+        <td>Diego Castro</td>
+        <td>feat: add login redirection</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>4202da4</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #13 from Web-Applications-SW53-Group-3/feature/job-post-http</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/job-post-http</td>
+        <td>c8e4720</td>
+        <td>Diego Castro</td>
+        <td>feat: add post creation</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>16e7d5b</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #12 from Web-Applications-SW53-Group-3/feature/responsive</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/responsive</td>
+        <td>5a14c35</td>
+        <td>Steve Castillo</td>
+        <td>feat: add responsive</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>64ecf29</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #11 from Web-Applications-SW53-Group-3/feature/globalization</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>5d27daa</td>
+        <td>Jennifer Espinoza</td>
+        <td>fix: update i18n</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/globalization</td>
+        <td>1f1ce24</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement messages i18n</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/job-post</td>
+        <td>89917aa</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #10 from Web-Applications-SW53-Group-3/feature/job-post</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ea054e4</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #9 from Web-Applications-SW53-Group-3/Feature/home</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>d7ca8bb</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add home path</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>d02c0a2</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add top-worker component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>dced036</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add top-employer component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>2e0049d</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add seeker component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/home</td>
+        <td>31f0517</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add home component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>296e1c0</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #8 from Web-Applications-SW53-Group-3/Feature/reset_password</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>ced37da</td>
+        <td>Diego Esquivel</td>
+        <td>fix: modify login component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>74ec4db</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add updated-password component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>c73a181</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add new-password component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>8f6be48</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add verification-code component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>Feature/reset_password</td>
+        <td>c4eb672</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add forgot-password component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/job-post</td>
+        <td>803d8da</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement employer's job posts</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c9b0b34</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/register</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>87064d1</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge branch 'develop' into feature/register</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>2484dec</td>
+        <td>Jennifer Espinoza</td>
+        <td>fix: change path</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>e6791b9</td>
+        <td>Jennifer Espinoza</td>
+        <td>fix: mofidy register form</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>f1e413b</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add register form</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>02cb5cd</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #6 from Web-Applications-SW53-Group-3/feature/employer-post-edit</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/employer-post-edit</td>
+        <td>8e390de</td>
+        <td>Diego Castro</td>
+        <td>feat: add edit and delete employer post</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c20bd2f</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #5 from Web-Applications-SW53-Group-3/feature/worker-profile</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/worker-profile</td>
+        <td>2eefb02</td>
+        <td>Diego Castro</td>
+        <td>feat: add worker-profile component and service</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>6e759a9</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #4 from Web-Applications-SW53-Group-3/feature/employer-myposts</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>feature/employer-myposts</td>
+        <td>bfb63cf</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer 'my posts' component</td>
+        <td>2023-09-27</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>d1c286b</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/employer-post</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/employer-post</td>
+        <td>c95b741</td>
+        <td>Diego Castro</td>
+        <td>Merge branch 'develop' into feature/employer-post</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/employer-post</td>
+        <td>4d47427</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer-post services</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>e35953f</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/navigation</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/navigation</td>
+        <td>af4bdaa</td>
+        <td>Steve Castillo</td>
+        <td>feat:add nav component</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ee17a89</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/login</td>
+        <td>2023-09-24</td>
+    </tr>
+    <tr>
+        <td>feature/login</td>
+        <td>a303475</td>
+        <td>Diego Castro</td>
+        <td>feat: add login services</td>
+        <td>2023-09-24</td>
+    </tr>
+    <tr>
+        <td>feature/login</td>
+        <td>aedaeb2</td>
+        <td>Diego Castro</td>
+        <td>feat: add login styles</td>
+        <td>2023-09-20</td>
+    </tr>
+    <tr>
+        <td>feature/login</td>
+        <td>35be50d</td>
+        <td>Diego Castro</td>
+        <td>feat: add login component</td>
+        <td>2023-09-19</td>
+    </tr>
+</table>
+
 Repositorio Github: https://github.com/Web-Applications-SW53-Group-3/ChambeaPe-App
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
@@ -5338,7 +5742,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 - [Click aqui para ver el Trello]()
 
-<img src="https://media.discordapp.net/attachments/1145421916413366426/1169717990338600991/image.png?ex=65566bc5&is=6543f6c5&hm=6054e9a707c86c43178da2eb4b37000662a89a7b9e0d36ca92a0264a529a4670&=&width=2608&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
 
 
 <table align="center" border="1" width="90%" style="text-align:center">
@@ -5504,59 +5908,483 @@ En esta sección se especifican los detalles del Sprint Backlog.
    </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
-<br>
+A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
-En esta seccion, se ha trabajado el testing de nuestras 3 capas de nuestra aplicacion web, en la cual se ha realizado el testing de los los componentes y los modelos. Para ello, estamos usando herramientas como xUnit,el lenguaje de C#, Nsubstitute el framework de net7.0  entre otros. Se han avanzado los tests de las capas de API, Domain y Data.
-Además, en este spring se han desarrollado avances sólidos de los endpints de ChambeaPe, los cuales se han desarrollado con el framework de ASP.Net y la base de datos MySQL. 
-
-1. A continuación se presenta captura del archivo de testing de la capa de API.
- <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1169732802443481118/image.png?ex=65567990&is=65440490&hm=3ac48dad99a142487a68ed7d87bf2b3ad5652664830e306c4ea3a2542f51e560&=&width=1746&height=1242" alt="Testing"  width="90%"/>
-    </div>
-<br>
-
-1. Se presenta la captura del archivo de testing de la capa de Domain.
-   <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1169732802443481118/image.png?ex=65567990&is=65440490&hm=3ac48dad99a142487a68ed7d87bf2b3ad5652664830e306c4ea3a2542f51e560&=&width=1746&height=1242" alt="Testing"  width="90%"/>
-    </div>
-<br>
-
-1. Se presenta la captura de pantalla del testing de la capa de datos.
-   <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1169732802443481118/image.png?ex=65567990&is=65440490&hm=3ac48dad99a142487a68ed7d87bf2b3ad5652664830e306c4ea3a2542f51e560&=&width=1746&height=1242" alt="Testing"  width="90%"/>
-    </div>
-
-Asimismo, se presentan los commits realizados al repositorio del backend API referentes a nuestras pruebas unitarias y el desarrollo de nuestros endpoints.
-
-
-<table align="left" border="1" width="100%">
-  <tr>
-    <th>Repository</th>
-    <th >Branch</th>
-    <th>Commit</th>
-    <th>Author</th>
-    <th>Message</th>
-    <th>Date</th>
-  </tr>
-  <tr>
-    <td rowspan=20></td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-Backend</td>
+        <td>develop</td>
+        <td>b16a903</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #18 from Web-Applications-SW53-Group-3/feature/business-logic</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/business-logic</td>
+        <td>de1fad5</td>
+        <td>Diego Castro</td>
+        <td>feat: add post creation logic</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/business-logic</td>
+        <td>c3a1573</td>
+        <td>Diego Castro</td>
+        <td>feat: add duplicated portfolio business logic</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>93f0394</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #17 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>e7bc2cd</td>
+        <td>Steve Castillo</td>
+        <td>feat: add employer domain test</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>3664eb3</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #16 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>0c4df14</td>
+        <td>Steve Castillo</td>
+        <td>feat: add certificate domain tests</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>3c7fd37</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #15 from Web-Applications-SW53-Group-3/feature/unit-tests-data</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-data</td>
+        <td>bccaad5</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add skills tests</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>fb75a49</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #14 from Web-Applications-SW53-Group-3/feature/post</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/post</td>
+        <td>a23268b</td>
+        <td>Diego Castro</td>
+        <td>feat: add domain validations and exceptions</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/post</td>
+        <td>dc13f8a</td>
+        <td>Diego Castro</td>
+        <td>feat: add data, domain and api layers</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0eda580</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #13 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>83fc5e8</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add advertisement domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>3e72c4b</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add worker domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>fc6086a</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add user domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>d7fb212</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #12 from Web-Applications-SW53-Group-3/feature/worker-profile-review</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/worker-profile-review</td>
+        <td>0423607</td>
+        <td>Diego Castro</td>
+        <td>feat: add review to worker profile</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>b67b3e9</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #11 from Web-Applications-SW53-Group-3/feature/cors-config</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/cors-config</td>
+        <td>89ec0b3</td>
+        <td>Diego Castro</td>
+        <td>feat: add cors configuration</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>7b474d7</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #10 from Web-Applications-SW53-Group-3/revert-9-feature/unit-test-domain</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>revert-9-feature/unit-test-domain</td>
+        <td>28c7871</td>
+        <td>Diego Castro</td>
+        <td>Revert "Feature/unit test domain"</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>cf00f73</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #9 from Web-Applications-SW53-Group-3/feature/unit-test-domain</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/unit-test-domain</td>
+        <td>f794686</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add test at worker entity</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/unit-test-domain</td>
+        <td>6caa5f8</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add tests for user domain</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>f2cec8c</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #8 from Web-Applications-SW53-Group-3/feature/employer</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/employer</td>
+        <td>a240338</td>
+        <td>Diego Castro</td>
+        <td>Merge branch 'develop' into feature/employer</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/employer</td>
+        <td>ec096c4</td>
+        <td>Diego Castro</td>
+        <td>feat: add register validations</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/employer</td>
+        <td>0d70440</td>
+        <td>Diego Castro</td>
+        <td>feat: add requests data annotations</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/employer</td>
+        <td>5b85e19</td>
+        <td>Diego Castro</td>
+        <td>feat: add exception handling</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/employer</td>
+        <td>38da1af</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer controller and mapping</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/employer</td>
+        <td>f63c588</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer domain and data layers</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>2db7f0e</td>
+        <td>Diego Esquivel</td>
+        <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/advertisemnt-certificate-portfolio-skill-endpoints</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/advertisemnt-certificate-portfolio-skill-endpoints</td>
+        <td>fcf85da</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add advertisement, certificate, portfolio and skill entities</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/advertisemnt-certificate-portfolio-skill-endpoints</td>
+        <td>d3eb47f</td>
+        <td>Diego Esquivel</td>
+        <td>fix: drop files from .gitignore</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>b65c9e1</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/review</td>
+        <td>2023-10-30</td>
+    </tr>
+    <tr>
+        <td>feature/review</td>
+        <td>5cf2431</td>
+        <td>Diego Castro</td>
+        <td>feat: add reviews rating</td>
+        <td>2023-10-30</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>07fa553</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/user</td>
+        <td>2023-10-30</td>
+    </tr>
+    <tr>
+        <td>feature/user</td>
+        <td>d5bb6cd</td>
+        <td>Diego Castro</td>
+        <td>feat: implement user update method</td>
+        <td>2023-10-30</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9a86e91</td>
+        <td>Diego Castro</td>
+        <td>first commit</td>
+        <td>2023-10-28</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>6ce12a4</td>
+        <td>Diego Castro</td>
+        <td>first commit</td>
+        <td>2023-10-28</td>
+    </tr>
 </table>
 
-<br><br>
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+En esta entrega se realizaron pruebas unitarias para las entidades de la aplicación web. En la siguiente tabla se muestran los commits realizados en el repositorio de la aplicación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-Backend</td>
+        <td>develop</td>
+        <td>b16a903</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #18 from Web-Applications-SW53-Group-3/feature/business-logic</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>93f0394</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #17 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>e7bc2cd</td>
+        <td>Steve Castillo</td>
+        <td>feat: add employer domain test</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>3664eb3</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #16 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>0c4df14</td>
+        <td>Steve Castillo</td>
+        <td>feat: add certificate domain tests</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>3c7fd37</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #15 from Web-Applications-SW53-Group-3/feature/unit-tests-data</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-data</td>
+        <td>bccaad5</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add skills tests</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0eda580</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #13 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>83fc5e8</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add advertisement domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>3e72c4b</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add worker domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>fc6086a</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add user domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>cf00f73</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #9 from Web-Applications-SW53-Group-3/feature/unit-test-domain</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/unit-test-domain</td>
+        <td>f794686</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add test at worker entity</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/unit-test-domain</td>
+        <td>6caa5f8</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add tests for user domain</td>
+        <td>2023-10-31</td>
+    </tr>
+</table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1169764973631770664/image.png?ex=65569786&is=65442286&hm=66b247f2790077a691016cc856a5fcd33b61344c916a588a8ec683064c880aac&=&width=973&height=814" alt="ChambeapePe API"  width="100%"> <img>
+
+
+<table align="left" border="1" width="100%">
+        <tr>
+            <th>Services</th>
+            <th>Evidencia</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <th>Url Base</th>
+            <td>
+            <img src="https://media.discordapp.net/attachments/1088250517282640072/1169764973631770664/image.png?ex=65569786&is=65442286&hm=66b247f2790077a691016cc856a5fcd33b61344c916a588a8ec683064c880aac&=&width=973&height=814" alt="API"  width="100%"> <img>
+            </td>
+            <td>Es este es nuestro swagger del API de chambea pe que maneja todos los controladores</td>
+        </tr>
+        <tr>
+            <th>Employer</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1169789490844409987/image.png?ex=6556ae5c&is=6544395c&hm=e1f15035966d87fa14bdb226783ce968cc149f23c9d335f815a7c7525f5a161b&=&width=1213&height=814"  width="100%"></td>
+            <td>Endpoint Employer </td>
+        </tr>
+        <tr>
+            <th>LoginService</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1157103417664225320/image.png?ex=65176408&is=65161288&hm=a12d488e3946cfae2cb40e005bf5b33813332f5f60a0ed260a54c60147a1afb8&=&width=1021&height=814"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "login".</td>
+        </tr>
+        <tr>
+            <th>WorkerProfileService</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1157103472785756251/image.png?ex=65176415&is=65161295&hm=ae0ede76a9757686f963dd7624e4920aaa2714ecdfd5abfecb3543385672df1b&=&width=1362&height=814" alt="Trello-Sprint-2"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "worker profile".</td>
+        </tr>
+    </table>
+
+<br><br>
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Nuestro equipo usó Azure para implementar la integración continua y desplegar nuestro backend en Azure Web Apps. este nos da la facilidad de usar nuestro Github para hacer deploy de este.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169731168934047896/opera_FR7CK18jPE.png?ex=6556780b&is=6544030b&hm=acffe18279d28324e3ed5c28e4ff876a6a30b591c002ce7841783480e4f016a6&=&width=1074&height=516" alt="APP-BACKEND-1"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169731168502030451/opera_gbzPZmXRXY.png?ex=6556780b&is=6544030b&hm=17f98bc06e7707ed7e6f57e94662a9a19d2d2beae97186902a738a3afda1dcd4&=&width=1074&height=553" alt="APP-BACKEND-1"  width="90%"/>
+</div>
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1169788574787440691/image.png?ex=6556ad81&is=65443881&hm=b0eb266bf9fbbf1a18b0cef80c25aa524d83fb957dc43a6958408a3c36d333c1&" alt="APP-BACKEND-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1169788574472876072/image.png?ex=6556ad81&is=65443881&hm=f0365d015100df320742449d96f1881df617e5be458082cf63dcda20fdae01c9&" alt="APP-BACKEND-1"  width="70%"/>
+</div>
+
 
 ## 5.3 Validation Interview
 ### 5.3.1 Diseño de Entrevistas
