@@ -6772,6 +6772,12 @@ Se recomienda que se habilite un filtro en la lista de trabajos para que los usu
 
 ## 5.4 Video About the Product
 
+El video que se muestra a continuación es un resumen de las funcionalidades de la aplicación ChambeaPe.
+
+<div align=center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VxcCWuWJsR4?si=TDuM-t3K52Sz7UBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+</div>
+
 
 
 # Conclusiones 
