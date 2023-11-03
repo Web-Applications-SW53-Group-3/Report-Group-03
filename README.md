@@ -3466,7 +3466,7 @@ Este es nuestro link de Figma, donde se encuentra el prototipo de alta fidelidad
 
 Se presenta el diagrama de contexto, donde el Sistema "ChambeaPe" es usado por tres clases de usuarios: Employer o Empleador, aquel que publica las ofertas de trabajo; Worker o Trabajador, aquel que ofrece sus servicios para el trabajo; y el Operator u Operador, empleados que manejas y dan soporte al sistema. Asimismo, el sistema principal se conecta con sistemas externos como el sistema de correo y de pago.
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149577738823409724/structurizr-85893-Context.png" alt="context-diagram"  width="90%"/>
+    <img src="https://cdn.discordapp.com/attachments/1088250517282640072/1169736092250034246/opera_PpkkeMMkkd.png?ex=65567ca1&is=654407a1&hm=85560dc110076f22366ce9beba8a4e91096d42d2e20c5f57b6eae93b5fa5e064&" alt="context-diagram"  width="90%"/>
 </div>
 </br>
 
@@ -3474,7 +3474,7 @@ Se presenta el diagrama de contexto, donde el Sistema "ChambeaPe" es usado por t
 
 Se presenta el diagrama de contenedores. Existe una aplicación web para cada usuario, con el fin de separar por diferentes funcionalidades. Estas tres aplicaciones web se conectan a un API Gateway, el cual funciona como punto de entrada. Este último se conecta a los cuatro servicios que presenta el sistema: servicio de búsqueda, servicio de publicación, servicio de pago y servicio de autenticación y seguridad. Todos se conectan a una base de datos del sistema. 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149326691307630612/structurizr-85893-Container.png?width=1030&height=670" alt="container-diagram"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1169736154581569676/opera_dz1fxF3SZv.png?ex=65567caf&is=654407af&hm=f730e7717584f25e4c352332c03e654ca6633f3825ba6c067495efdda44a4853&=&width=1048&height=681" alt="container-diagram"  width="90%"/>
 </div>
 </br>
 
@@ -6214,6 +6214,15 @@ A continuación se presentan los commits realizados en el repositorio de la apli
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1169788574787440691/image.png?ex=6556ad81&is=65443881&hm=b0eb266bf9fbbf1a18b0cef80c25aa524d83fb957dc43a6958408a3c36d333c1&" alt="APP-BACKEND-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1169788574472876072/image.png?ex=6556ad81&is=65443881&hm=f0365d015100df320742449d96f1881df617e5be458082cf63dcda20fdae01c9&" alt="APP-BACKEND-1"  width="70%"/>
+</div>
+
 
 ## 5.3 Validation Interview
 ### 5.3.1 Diseño de Entrevistas
