@@ -4,7 +4,16 @@
 <hr>
 
 # <center>COURSE PROJECT</center>
-## TB2 REPORT
+
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software - 5to Ciclo</strong><br>
+    <strong>Desarrollo de Aplicaciones Aplicaciones Web - SW53</strong><br>
+    <strong>Profesor: Naldo Reupo</strong><br>
+    <br>INFORME DE TRABAJO FINAL - TB2
+</p>
+
 
 ## StartUp Name
 ### Team Members:
@@ -102,30 +111,134 @@
     - [4.8.1. Database Diagram](#481-database-diagram)
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capc3adtulo-v-product-implementation-validation--deployment-1)
-- [5.1. Software Configuration Management](#51-software-configuration-management)
+- [COURSE PROJECT](#course-project)
+  - [StartUp Name](#startup-name)
+    - [Team Members:](#team-members)
+    - [Ciclo 2023-02](#ciclo-2023-02)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [Registro de versiones del informe](#registro-de-versiones-del-informe-1)
+    - [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
+    - [Contenido](#contenido-1)
+    - [Student Outcome](#student-outcome)
+    - [Capítulo I: Introducción](#capítulo-i-introducción)
+    - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+    - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [Conclusiones](#conclusiones)
+    - [Bibliografía](#bibliografía)
+    - [Anexos](#anexos)
+- [Student Outcome](#student-outcome-1)
+  - [Capítulo I: Introducción](#capítulo-i-introducción-1)
+  - [1.1. StartUp Profile](#11-startup-profile)
+    - [1.1.1. Description de la StartUp](#111-description-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [Segmento 02](#segmento-02)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment-1)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
-        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-        - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-        - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-        - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
-        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-1)
-        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-1)
-        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+  - [5.3 Validation Interview](#53-validation-interview)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [Segmento 01: (Chambeadores)](#segmento-01-chambeadores)
+    - [SEGMENTO 02: (Empleadores)](#segmento-02-empleadores)
+    - [5.3.3 Evaluación según heurísticas](#533-evaluación-según-heurísticas)
+      - [UX Heuristics \& Principles Evaluation](#ux-heuristics--principles-evaluation)
+        - [Usability – Inclusive Design – Information Architecture](#usability--inclusive-design--information-architecture)
+  - [5.4 Video About the Product](#54-video-about-the-product)
+- [Conclusiones](#conclusiones-1)
+- [Bibliografía](#bibliografía-1)
+- [Anexos](#anexos-1)
+
+
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -5780,7 +5893,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 - [Click aqui para ver el Trello]()
 
-<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1169717990338600991/image.png?ex=65566bc5&is=6543f6c5&hm=6054e9a707c86c43178da2eb4b37000662a89a7b9e0d36ca92a0264a529a4670&=&width=1620&height=772" alt="Trello-Sprint-3"  width="90%"> <img>
 
 
 <table align="center" border="1" width="90%" style="text-align:center">
@@ -6250,6 +6363,7 @@ A continuación se presentan los commits realizados en el repositorio de la apli
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 En esta entrega se realizaron pruebas unitarias para las entidades de la aplicación web. En la siguiente tabla se muestran los commits realizados en el repositorio de la aplicación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+- API ChambeaPe: https://chambeape.azurewebsites.net/api/worker
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -6364,6 +6478,7 @@ En esta entrega se realizaron pruebas unitarias para las entidades de la aplicac
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
 A continuación se muestra la implementación del método responsable de la creación del post de un empleador. La regla de negocio que hemos definido es que un empleador solo puede crear un post cada 24 horas.
+- API ChambeaPe: https://chambeape.azurewebsites.net/api/worker
 
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1169802731108712468/domainLogicPOST.png?ex=6556bab0&is=654445b0&hm=5920ea52fa0086138488a0d2883e960d504ae25dc0a0f60ff1f1c036e4865181&=&width=1316&height=897" alt="Create Post"  width="100%"> <img>
 
@@ -6476,6 +6591,8 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 
 
 ## 5.3 Validation Interview
+A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
+
 ### 5.3.1 Diseño de Entrevistas
 Para la entrevista se realizaron las siguientes preguntas:
 
@@ -6895,6 +7012,8 @@ El video que se muestra a continuación es un resumen de las funcionalidades de 
 
 - Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requisitos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
 
+- La aplicación de los principios de diseño de UX ha sido fundamental para garantizar que la aplicación sea intuitiva y fácil de usar. Esto ha sido posible gracias a la realización de pruebas de usabilidad y a la incorporación de las percepciones de los usuarios en el diseño de la aplicación. Esto ha contribuido a una experiencia de usuario más atractiva y a una mayor retención de usuarios.
+  
 
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
@@ -6908,7 +7027,6 @@ agosto del 2023, de
 <https://rpp.pe/economia/economia/empleo-8-de-cada-10-jovenes-dicen-tener-problemas-para-encontrar-trabajo-noticia-1428867?ref=rpp>
 
 3. Redacción RPP. (2022, 01 de septiembre). Empleo: 8 de cada 10 jóvenes tienen problemas para encontrar trabajo. Rpp. Recuperado el 23 de agosto del 2023, de <https://rpp.pe/economia/economia/empleo-8-de-cada-10-jovenes-dicen-tener-problemas-para-encontrar-trabajo-noticia-1428867?ref=rpp>
-
 
 
 <br><br>
@@ -6926,3 +7044,4 @@ agosto del 2023, de
 https://my.vertabelo.com/doc/xCMKKhOAvoi3DjIpzNX6xyP9wZ1JoB7O
 - Sprint Backlog: https://trello.com/b/Gefw1vfY/ATTIacaa4de609b1f27260ebda8a38ba5cf871CA4074/sprint-backlog-02
 - Aplicación Web: https://chambeapeweb.web.app/#/
+- API ChambeaPe: https://chambeape.azurewebsites.net/api/worker
