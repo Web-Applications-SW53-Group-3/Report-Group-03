@@ -6210,6 +6210,119 @@ A continuación se presentan los commits realizados en el repositorio de la apli
 </table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+En esta entrega se realizaron pruebas unitarias para las entidades de la aplicación web. En la siguiente tabla se muestran los commits realizados en el repositorio de la aplicación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-Backend</td>
+        <td>develop</td>
+        <td>b16a903</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #18 from Web-Applications-SW53-Group-3/feature/business-logic</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>93f0394</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #17 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>e7bc2cd</td>
+        <td>Steve Castillo</td>
+        <td>feat: add employer domain test</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>3664eb3</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #16 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>0c4df14</td>
+        <td>Steve Castillo</td>
+        <td>feat: add certificate domain tests</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>3c7fd37</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #15 from Web-Applications-SW53-Group-3/feature/unit-tests-data</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-data</td>
+        <td>bccaad5</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add skills tests</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0eda580</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #13 from Web-Applications-SW53-Group-3/feature/unit-tests-domain</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>83fc5e8</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add advertisement domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>3e72c4b</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add worker domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>feature/unit-tests-domain</td>
+        <td>fc6086a</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add user domain tests</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>cf00f73</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #9 from Web-Applications-SW53-Group-3/feature/unit-test-domain</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/unit-test-domain</td>
+        <td>f794686</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add test at worker entity</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/unit-test-domain</td>
+        <td>6caa5f8</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add tests for user domain</td>
+        <td>2023-10-31</td>
+    </tr>
+</table>
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
