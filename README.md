@@ -6324,6 +6324,32 @@ En esta entrega se realizaron pruebas unitarias para las entidades de la aplicac
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+
+A continuación se muestra la implementación del método responsable de la creación del post de un empleador. La regla de negocio que hemos definido es que un empleador solo puede crear un post cada 24 horas.
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802731108712468/domainLogicPOST.png?ex=6556bab0&is=654445b0&hm=5920ea52fa0086138488a0d2883e960d504ae25dc0a0f60ff1f1c036e4865181&=&width=1316&height=897" alt="Create Post"  width="100%"> <img>
+
+Aquí se muestra la implementación de los métodos de creación, actualización y eliminación de los certificados de un chambeador, los cuales aparecerán en su perfil.
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802730529882213/certificateDomain.png?ex=6556bab0&is=654445b0&hm=1cd46476f763ec2471c388be968950c39dfae5f6539ba416ae8b0e925d15956e&=&width=1187&height=897" alt="Certificate Domain"  width="100%"> <img>
+
+Métodos para creación, actualización y comprobación de un chambeador.
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802730815103076/workerDomain.png?ex=6556bab0&is=654445b0&hm=2d94742b80033bbc9caabbcff6af606a4877b23a1526efcdce936e84d9f00f82&=&width=1036&height=897" alt="Worker Domain"  width="100%"> <img>
+
+JSON de respuesta de un post
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802730232102932/opera_eiuhcXS5kp.png?ex=6556bab0&is=654445b0&hm=ba27cc0f4ca78d2154efbb432b0614dcd64d81c4eca9b10116e28ed7b7247240&=&width=1297&height=897" alt="JSON Post"  width="100%"> <img>
+
+JSON de respuesta de un certificate
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802731393908806/opera_XEFscIqW1T.png?ex=6556bab1&is=654445b1&hm=aa0567e9058b082d271f248a7297680992f126e770d06bc34d80dd15f384b1d4&=&width=1185&height=897" alt="JSON Certificate  width="100%"> <img>
+
+JSON de respuesta de un chambeador
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1169802729883967559/opera_Lujn2zewnL.png?ex=6556bab0&is=654445b0&hm=2af46d5142f81766fe053864c9a4da8de0079808a6e8bbbcb6a89ec434040d51&=&width=1266&height=897" alt="JSON Chambeador"  width="100%"> <img>
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
