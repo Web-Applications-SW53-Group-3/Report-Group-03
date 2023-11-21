@@ -225,6 +225,8 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
   - [5.3 Validation Interview](#53-validation-interview)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -6588,6 +6590,110 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 <div align=center>
     <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1169788574472876072/image.png?ex=6556ad81&is=65443881&hm=f0365d015100df320742449d96f1881df617e5be458082cf63dcda20fdae01c9&" alt="APP-BACKEND-1"  width="70%"/>
 </div>
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            26/10/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            15:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 3</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 3, se logró desarrollar e implementar el 
+            backend de la aplicación web, usando como base de datos MySQL y .NET.
+            Además de eso se logró desarrollar y conectar el frontend de la aplicación web con el backend. Además pudimos implementar una primera versión del chat con el usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para el Sprint 4, se plantea finalizar la integración entre el frontend y el backend, además de implementar medidas de seguridad en la aplicación web mediante el uso de JSON Web Tokens (JWTs). Estas medidas de seguridad abarcarán aspectos cruciales como autenticación, autorización y protección contra ataques comunes. Adicionalmente, se incorporará la práctica de hashear las contraseñas utilizando la función de hash de contraseñas bCrypt, fortaleciendo así la seguridad del sistema mediante un método reconocido y efectivo de protección de las credenciales de usuario.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            35
+        </td>
+    </tr>
+</table>
+</br>
+<br>
 
 
 ## 5.3 Validation Interview
