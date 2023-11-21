@@ -33,8 +33,9 @@
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
 |TB1|05/09/2023|  Todos los integrantes del equipo|Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se diseñaron los mockups y prototipos de la página de inicio en base a la información obtenida. Por último, se creó la página de inicio con la ayuda del sprint backlog para tener un control de los avances.|
-|TP|26/09/2023|  Todos los integrantes del equipo|En resúmen, en el proceso de desarrollo de nuestra Aplicación Web Frontend, comenzamos por cuidadosamente seleccionar los user stories que formarían parte de nuestro primer avance. Luego, procedimos a implementar estos user stories en Angular, basándonos en los mockups que habíamos previamente diseñado. Finalmente, culminamos esta fase al desplegar con éxito el frontend de nuestra aplicación web, logrando así un hito significativo en el proceso de desarrollo.| 
-|TB2|01/11/2023|  Todos los integrantes del equipo |  En resumen, el proceso de desarrollo de nuestra aplicación web backend comenzó con una revisión exhaustiva de la base de datos para asegurarnos de tener una base sólida. Luego, creamos el proyecto en .NET y organizamos las carpetas y la distribución del trabajo. Al mismo tiempo, creamos unit tests bien pensados para ayudar a detectar errores en el backend. Finalmente, desplegamos la aplicación en Azure Web Apps. | 
+|TP|26/09/2023|  Todos los integrantes del equipo|En resúmen, en el proceso de desarrollo de nuestra Aplicación Web Frontend, comenzamos por cuidadosamente seleccionar los user stories que formarían parte de nuestro primer avance. Luego, procedimos a implementar estos user stories en Angular, basándonos en los mockups que habíamos previamente diseñado. Finalmente, culminamos esta fase al desplegar con éxito el frontend de nuestra aplicación web, logrando así un hito significativo en el proceso de desarrollo.|
+|TB2|01/11/2023|  Todos los integrantes del equipo |  En resumen, el proceso de desarrollo de nuestra aplicación web backend comenzó con una revisión exhaustiva de la base de datos para asegurarnos de tener una base sólida. Luego, creamos el proyecto en .NET y organizamos las carpetas y la distribución del trabajo. Al mismo tiempo, creamos unit tests bien pensados para ayudar a detectar errores en el backend. Finalmente, desplegamos la aplicación en Azure Web Apps.|
+|TF|21/11/2023|  Todos los integrantes del equipo |  En nuestro proyecto, logramos la integración exitosa del frontend Vue.js con el backend .NET, asegurando un rendimiento eficiente. Implementamos medidas sólidas de seguridad para proteger datos sensibles y aplicamos reglas de negocio que fortalecieron la funcionalidad del sistema. El resultado es una solución tecnológica cohesionada, segura y alineada con los objetivos del negocio.|
 
 <br><br>
 
@@ -225,6 +226,14 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interview](#53-validation-interview)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -262,7 +271,7 @@ del ABET – EAC - Student Outcome 5.
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td rowspan="3"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td rowspan="4"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
@@ -273,7 +282,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
         <br><br>
    </td>
@@ -291,7 +300,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Gracias a nuestra meticulosa organización, logramos identificar y mejorar varios aspectos clave en la ejecución de nuestro plan de desarrollo, lo que contribuyó a un progreso más fluido y efectivo.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
         <br><br>
    </td>
@@ -309,16 +318,34 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Se implementaron mejoras en la funcionalidad principal de la aplicación, optimizando su rendimiento y aumentando la eficiencia del sistema. También se corrigieron varios errores reportados por los usuarios para ofrecer una experiencia más fluida y sin interrupciones.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Se realizaron mejoras en la aplicación web para mejorar la experiencia de usuario al realizar una reserva. Además, de pulir el diseño de algunos componentes y colaborar en el desarrollo con los otros miembros del equipo.
         <br><br>
    </td>
     <td>TB2<br><br>
     Se desarrollaron nuevas vistas en la parte del Front-end, así como también se implementó el Back-end de nuestra aplicación.</td>
   </tr>
+  <tr>
+    <td>TF<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - La organización de nuestro equipo de trabajo nos permitió realizar las US seleccionadas para el cuarto sprint, lo que nos llevó a cumplir con los objetivos establecidos para la última entrega.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La colaboración entre el equipo de trabajo nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos facilitó cumplir con los objetivos establecidos para la última entrega.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - El trabajo en equipo nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos facilitó cumplir con los objetivos establecidos para la última entrega.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b><br>
+        - Por la colaboración entre los miembros del equipo, logramos cumplir con los objetivos establecidos para la última entrega.
+        <br><br>
+   </td>
+    <td>TF<br><br>
+    En la última entrega nos enfocamos en la implementación de las conexiones entre el Frontend y el Backend, lo que nos permitió cumplir con los objetivos establecidos para la última entrega.</td>
+  </tr>
   
   <tr>
-    <td rowspan="3"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td rowspan="4"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles</b><br>
         - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
@@ -329,7 +356,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Realicé una entrevista a un miembro de uno de los grupos objetivo con el objetivo de obtener información relevante para llevar a cabo algunos de los aspectos del trabajo.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
         <br><br>
    </td>
@@ -347,7 +374,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - A través de un riguroso sprint planning, pudimos analizar minuciosamente los puntos de mejora, lo que contribuyó significativamente a la optimización de nuestro proceso de desarrollo y al fortalecimiento de nuestra solución.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - La exitosa implementación de los user stories seleccionados durante el sprint en nuestra Aplicación Web Frontend demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
         <br><br>
    </td>
@@ -365,12 +392,31 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Se implementaron los servicios para las respectivas entidades, cumpliendo con los requerimientos funcionales y no funcionales, y también la lógica de negocio. Además de consumirlo desde las aplicaciones web.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Nuestra habilidad para comunicar de manera objetiva en el ámbito de la ingeniería, específicamente en el desarrollo de nuestra plataforma web, se ha enriquecido a través del proceso de entrevistas. Esta retroalimentación ha contribuido significativamente a mejorar nuestra comunicación escrita, permitiéndonos conectar eficazmente con audiencias de diversas especialidades y niveles jerárquicos.
         <br><br>
    </td>
     <td>TB2<br><br>
     Realizamos una nueva versión del servicio, el cual seguirá recibiendo mejoras continuas por parte de nuestro equipo de trabajo.</td>
+  </tr>
+  <tr>
+    <td>TF<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Se modificó el diseño de la aplicación para que sea más atractivo y fácil de usar para los usuarios.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Se conectó el Frontend con el Backend para que los usuarios puedan interactuar con la aplicación.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Se implementó la funcionalidad de la aplicación para que los usuarios puedan interactuar con ella. Para eso usamos los endpoints que se conectan con el Backend.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b><br>
+        - Se implementó parcialmente la seguridad usando JWT para que los usuarios puedan ingresar de acuerdo a los roles que tengan.
+        <br><br>
+   </td>
+    <td>TF<br><br>
+    Se implementó la funcionalidad de la aplicación para que los usuarios puedan interactuar con ella. Para eso usamos los endpoints que se conectan con el Backend. Adicionalmente se implementó parcialmente la seguridad usando JWT para que los usuarios puedan ingresar de acuerdo a los roles que tengan.
+    </td>
   </tr>
 </table>
 
@@ -6589,6 +6635,462 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
     <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1169788574472876072/image.png?ex=6556ad81&is=65443881&hm=f0365d015100df320742449d96f1881df617e5be458082cf63dcda20fdae01c9&" alt="APP-BACKEND-1"  width="70%"/>
 </div>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            26/10/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            15:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 3</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 3, se logró desarrollar e implementar el 
+            backend de la aplicación web, usando como base de datos MySQL y .NET.
+            Además de eso se logró desarrollar y conectar el frontend de la aplicación web con el backend. Además pudimos implementar una primera versión del chat con el usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para el Sprint 4, se plantea finalizar la integración entre el frontend y el backend, además de implementar medidas de seguridad en la aplicación web mediante el uso de JSON Web Tokens (JWTs). Estas medidas de seguridad abarcarán aspectos cruciales como autenticación, autorización y protección contra ataques comunes. Adicionalmente, se incorporará la práctica de hashear las contraseñas utilizando la función de hash de contraseñas bCrypt, fortaleciendo así la seguridad del sistema mediante un método reconocido y efectivo de protección de las credenciales de usuario.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            35
+        </td>
+    </tr>
+</table>
+</br>
+<br>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se especifican los detalles del Sprint Backlog.
+
+- [Click aqui para ver el Trello](https://trello.com/invite/b/hHMMLGXR/ATTI49808b196bb44a31a04ddeb483cd27a59B1F055B/sprint-backlog-4)
+
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176591538403422328/image.png?ex=656f6d42&is=655cf842&hm=d1bc97bb57b63e26607ef837744859234451a2429a434398d24872ef028fbea7&" alt="Trello-Sprint-4"  width="90%"> <img>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+   <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
+     </tr>
+   <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+   <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+   </tr>
+   <tr>
+       <td rowspan="3">US-01</td>
+       <td rowspan="3">Inicio de Sesión</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de inicio de sesión</td>
+       <td>Crear un modelo de datos que almacene los datos de inicio de sesión de un usuario, como correo electrónico y contraseña.</td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de inicio de sesión</td>
+       <td>mplementar una interfaz de usuario funcional que verifique y permita a los usuarios iniciar sesión en la aplicación.</td>
+       <td>3.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T03</td>
+       <td>Implementar autenticación de usuarios</td>
+       <td>Implementar la autenticación de usuarios utilizando JWT.</td>
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="4">US-02</td>
+       <td rowspan="4">Registrarse con correo</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de registro en el backend</td>
+       <td>Crear un modelo de datos que almacene los datos de registro de un usuario, como correo electrónico, nombre, apellido, contraseña y tipo de usuario. </td> 
+       <td>4</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de registro</td>
+       <td>Implementar una interfaz de usuario que permita a los usuarios registrarse en la aplicación con su correo electrónico, nombre, apellido, contraseña y tipo de usuario.</td>
+       <td>2</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T03</td>
+       <td> Implementar creación de usuarios en el backend</td>
+       <td> Implementar la creación de usuarios en el backend utilizando JWT.</td>
+       <td>3</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T04</td>
+       <td>Implementar creación de usuarios en el frontend</td>
+       <td>Implementar la creación de usuarios en el frontend utilizando Angular.</td>
+       <td>2</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="2">US-03</td>
+       <td rowspan="2">	Manejar información del perfil</td>
+       <td>T01</td>
+       <td>Implementar JWT para la autenticación del perfil de usuario</td>
+       <td>Implementar JSON Web Tokens (JWT) para manejar la autenticación y autorización del perfil de usuario. Esto permitirá a los usuarios mantener sus datos personales actualizados de manera segura.</td> 
+       <td>4</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la actualización del perfil de usuario</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="2">US-12</td>
+       <td rowspan="2">Comunicar entre empleado y chambeador</td>
+       <td>T01</td>
+       <td>Establecer comunicación segura entre empleador y chambeador</td>
+       <td>Implementar seguridad en la aplicación para garantizar una comunicación segura entre el empleador y el chambeador. Esto permitirá a los empleadores definir las características del trabajo directamente con los chambeadores de manera segura.</td> 
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la comunicación entre empleador y chambeador</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="2">US-13</td>
+       <td rowspan="2">Reseñar empleador al chambeador</td>
+       <td>T01</td>
+       <td>Implementar JWT para la reseña del empleador al chambeador</td>
+       <td>Implementar JWT para asegurar la reseña del empleador al chambeador. Esto permitirá a los empleadores dejar una reseña sobre la experiencia con el chambeador de manera segura después de que el trabajo se haya completado.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para las reseñas del empleador al chambeador</td>
+       <td>Conectar endpoints en el backend que permitan al empleador dejar una reseña sobre la experiencia con el chambeador. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="3">US-21</td>
+       <td rowspan="3">Postular a vacantes de trabajo</td>
+        <td>T01</td>
+        <td> Implementar restricción de acceso por roles</td>
+        <td> Implementar la restricción de acceso a la función de postulación de vacantes a usuarios autenticados con el rol de empleador.</td>
+        <td>3</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+   </tr>
+   <tr>
+        <td>T02</td>
+        <td>Implementar la validación de campos</td>
+        <td> Implementar la validación de campos en la función de postulación de vacantes.</td>
+        <td>2</td>
+        <td>Steve Castillo</td>
+        <td>Done</td>
+   </tr>
+   <tr>
+        <td>T03</td>
+        <td>Implementar la creación de postulaciones en el backend</td>
+        <td> Implementar la creación de postulaciones en el backend utilizando JWT.</td>
+        <td>2,5</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="2">US-23</td>
+       <td rowspan="2">Manejar certificados</td>
+       <td>T01</td>
+       <td>Implementar seguridad para el manejo de certificados</td>
+       <td>Implementar seguridad para manejar los certificados del chambeador. Esto permitirá a los chambeadores manejar sus certificados de manera segura, lo que les dará una mejor oportunidad laboral.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Crear endpoints para el manejo de certificados</td>
+       <td>Crear endpoints en el backend que permitan al chambeador manejar sus certificados. Estos endpoints deben estar protegidos.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+</table>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+Se realizaron pruebas unitarias usando Xunit y Moq.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20>ChambeaPe-Backend</td>
+    <td>feature/unit-test-api</td>
+    <td>6310407</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add unit test controllers</td>
+    <td>2023-11-02</td>
+  </tr>
+  <tr>
+    <td rowspan=6>feature/unit-test-domain</td>
+    <td>6caa5f8</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add tests for userdomain</td>
+    <td>2023-10-31</td>
+  </tr>
+   <tr>
+    <td>f794686</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add userdomain tests</td>
+    <td>2023-11-01</td>
+  </tr>
+  <tr>
+    <td>fc6086a</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add test at worker entity</td>
+    <td>2023-10-31</td>
+  </tr>
+  <tr>
+    <td>3e72c4b</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add worjker doamain tests</td>
+    <td>2023-11-01</td>
+  </tr>
+   <tr>
+    <td>83fc5e8</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add advertisement domain tests</td>
+    <td>2023-11-01</td>
+  </tr>
+  <tr>
+    <td>6a4c1f4</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: complete unit tests</td>
+    <td>2023-11-06</td>
+  </tr>
+  <tr>
+    <td>feature/unit-test-data</td>
+    <td>bccaad5</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add skills tests</td>
+    <td>2023-11-02</td>
+  </tr>
+</table>
+
+<br><br>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176666651605868604/image.png?ex=656fb337&is=655d3e37&hm=8b754671f8fd0743c8edfe1770e24ebed24a217ffbb46ed1b694c2240945fb62&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176666867654479983/image.png?ex=656fb36a&is=655d3e6a&hm=86a575ca754ac7933859224671d26ae9272bb01a7102c668c2274b8879d345dd&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176666940853465208/image.png?ex=656fb37c&is=655d3e7c&hm=e9d08ab76314289310b6c17e6a2f6e21b17908f0afbeb52b8c0f37e94eed639d&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667007018606642/image.png?ex=656fb38b&is=655d3e8b&hm=8350279f4a5d97a160a3f494d2ac4ddc7831b965cb8bcc315a9b2918b91c0307&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667067777306675/image.png?ex=656fb39a&is=655d3e9a&hm=210996d239fd1535a0fc005b6f7d1a1b8b83b2c9693cdf94b9619feffd6bfe2a&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667117916008528/image.png?ex=656fb3a6&is=655d3ea6&hm=ee6eb6d5fd9b7ac783e9199033c9278a7d9c492fd880d11fbbed823d7d7b3a5c&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667229304147988/image.png?ex=656fb3c0&is=655d3ec0&hm=da1aa60071f03868425d55cfb0f425ba23290e3c5d61fa270a41112dd7b9379b&" alt="ChambeapePe API"  width="100%">
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+A continuación se muestra el Swagger Documentado de los servicios que se han desarrollado. Para conectar nuestro frontend en Vue con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure.
+
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597684463882311/image.png?ex=656f72fc&is=655cfdfc&hm=e0c40c21d23db6ded7cca7f07a0bfd43956972c61497ffb81982959a3bd3d7f8&" alt="ChambeapePe API"  width="100%">
+
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Services</th>
+        <th>Evidencia</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <th>Account</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597742320091156/image.png?ex=656f7309&is=655cfe09&hm=54b0ad710a9802849dbb258f1a4cbc90bff6dd97c75ebea5a94e8f3f8824fc21&"  width="100%"></td>
+        <td>Endpoint Account</td>
+    </tr>
+    <tr>
+        <th>Advertisement</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597771319517315/image.png?ex=656f7310&is=655cfe10&hm=3db1a1d2ba271d8999f1513aec55e3d342a99ffaadb88a8854214fe9308796f8&"  width="100%"></td>
+        <td>Endpoint Advertisement</td>
+    </tr>
+    <tr>
+        <th>Certificate</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597813560361092/image.png?ex=656f731a&is=655cfe1a&hm=e2b3a7fab04a11c43c0b79ac625e20521360441b61acdcbec91457203dacb109&"  width="100%"></td>
+        <td>Endpoint Certificate</td>
+    </tr>
+    <tr>
+        <th>Employer</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597847832002641/image.png?ex=656f7323&is=655cfe23&hm=f45ab0f35b5bc11526e33fd4b5db4163fb2e08f8c850527e18f08f7e55e5a7f2&"  width="100%"></td>
+        <td>Endpoint Employer</td>
+    </tr>
+    <tr>
+        <th>Portfolio</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597880996372590/image.png?ex=656f732a&is=655cfe2a&hm=0da2755518f66dc348da079de58f525826d5640d5a234aaab0e55eb4aea79a7d&"  width="100%"></td>
+        <td>Endpoint Portfolio</td>
+    </tr>
+    <tr>
+        <th>Post</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597915649724506/image.png?ex=656f7333&is=655cfe33&hm=70ef5e3f091cda020ceb618cc2073487883134d1212adbaef525a83f815fe00c&"  width="100%"></td>
+        <td>Endpoint Post</td>
+    </tr>
+    <tr>
+        <th>Skill</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597960197406760/image.png?ex=656f733d&is=655cfe3d&hm=e863911c01ef45c51dd214a36941aaf0293e428473b102cdfc1667a0fccd894b&"  width="100%"></td>
+        <td>Endpoint Skill</td>
+    </tr>
+    <tr>
+        <th>User</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597989293310085/image.png?ex=656f7344&is=655cfe44&hm=685337b53940e9b3c2ce24d1c589c00d416a9797d9ab9fb364a5574bbcc730df&"  width="100%"></td>
+        <td>Endpoint User</td>
+    </tr>
+    <tr>
+        <th>Worker</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176598033413197946/image.png?ex=656f734f&is=655cfe4f&hm=51309fd60a6cc5886509f016b558561d59cc5918aa95709268af72ab6bbff504&"  width="100%"></td>
+        <td>Endpoint Worker</td>
+    </tr>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+El proyecto se encuentra desplegado en Azure, todo esto está documentado en el 3.2.3.7 Software Deployment Evidence for Sprint Review.
+Acá el link al documento: [3.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
+**Insights Frontend**
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176656707162742794/image.png?ex=656fa9f4&is=655d34f4&hm=f4c0db3e647c9cc919e952183c99ba778228d5235c203f1a1c938b2e985d337e&"  width="90%"/>
+</div>
+
+**Insights Backend**
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176656535175319653/image.png?ex=656fa9cb&is=655d34cb&hm=63151382c4f30b6f7bce0c01376b51ed8e589ec98727484eee5f38323292943a&"  width="90%"/>
+</div>
+
 
 ## 5.3 Validation Interview
 A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
@@ -7013,8 +7515,13 @@ El video que se muestra a continuación es un resumen de las funcionalidades de 
 - Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requisitos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
 
 - La aplicación de los principios de diseño de UX ha sido fundamental para garantizar que la aplicación sea intuitiva y fácil de usar. Esto ha sido posible gracias a la realización de pruebas de usabilidad y a la incorporación de las percepciones de los usuarios en el diseño de la aplicación. Esto ha contribuido a una experiencia de usuario más atractiva y a una mayor retención de usuarios.
-  
 
+- .NET es una plataforma potente y versátil que ofrece una amplia gama de características y funcionalidades para el desarrollo de aplicaciones de alto rendimiento y escalabilidad.
+
+- Los unit tests son una parte esencial del desarrollo de software de calidad. Ayudan a garantizar que el código sea correcto, robusto y fácil de mantener.
+
+- Los JWT son una forma segura y eficiente de transmitir información entre aplicaciones. Son fáciles de usar y compatibles con una amplia gama de plataformas y lenguajes de programación.
+  
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
 trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
