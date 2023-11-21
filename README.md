@@ -269,7 +269,7 @@ del ABET – EAC - Student Outcome 5.
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td rowspan="3"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td rowspan="4"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
@@ -280,7 +280,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
         <br><br>
    </td>
@@ -298,7 +298,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Gracias a nuestra meticulosa organización, logramos identificar y mejorar varios aspectos clave en la ejecución de nuestro plan de desarrollo, lo que contribuyó a un progreso más fluido y efectivo.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
         <br><br>
    </td>
@@ -316,16 +316,34 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Se implementaron mejoras en la funcionalidad principal de la aplicación, optimizando su rendimiento y aumentando la eficiencia del sistema. También se corrigieron varios errores reportados por los usuarios para ofrecer una experiencia más fluida y sin interrupciones.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Se realizaron mejoras en la aplicación web para mejorar la experiencia de usuario al realizar una reserva. Además, de pulir el diseño de algunos componentes y colaborar en el desarrollo con los otros miembros del equipo.
         <br><br>
    </td>
     <td>TB2<br><br>
     Se desarrollaron nuevas vistas en la parte del Front-end, así como también se implementó el Back-end de nuestra aplicación.</td>
   </tr>
+  <tr>
+    <td>TF<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - La organización de nuestro equipo de trabajo nos permitió realizar las US seleccionadas para el cuarto sprint, lo que nos llevó a cumplir con los objetivos establecidos para la última entrega.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La colaboración entre el equipo de trabajo nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos facilitó cumplir con los objetivos establecidos para la última entrega.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - El trabajo en equipo nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos facilitó cumplir con los objetivos establecidos para la última entrega.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b><br>
+        - Por la colaboración entre los miembros del equipo, logramos cumplir con los objetivos establecidos para la última entrega.
+        <br><br>
+   </td>
+    <td>TF<br><br>
+    En la última entrega nos enfocamos en la implementación de las conexiones entre el Frontend y el Backend, lo que nos permitió cumplir con los objetivos establecidos para la última entrega.</td>
+  </tr>
   
   <tr>
-    <td rowspan="3"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td rowspan="4"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles</b><br>
         - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
@@ -336,7 +354,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Realicé una entrevista a un miembro de uno de los grupos objetivo con el objetivo de obtener información relevante para llevar a cabo algunos de los aspectos del trabajo.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
         <br><br>
    </td>
@@ -354,7 +372,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - A través de un riguroso sprint planning, pudimos analizar minuciosamente los puntos de mejora, lo que contribuyó significativamente a la optimización de nuestro proceso de desarrollo y al fortalecimiento de nuestra solución.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - La exitosa implementación de los user stories seleccionados durante el sprint en nuestra Aplicación Web Frontend demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
         <br><br>
    </td>
@@ -372,12 +390,31 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Se implementaron los servicios para las respectivas entidades, cumpliendo con los requerimientos funcionales y no funcionales, y también la lógica de negocio. Además de consumirlo desde las aplicaciones web.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Diego Martín Esquivel Aguayo</b><br>
         - Nuestra habilidad para comunicar de manera objetiva en el ámbito de la ingeniería, específicamente en el desarrollo de nuestra plataforma web, se ha enriquecido a través del proceso de entrevistas. Esta retroalimentación ha contribuido significativamente a mejorar nuestra comunicación escrita, permitiéndonos conectar eficazmente con audiencias de diversas especialidades y niveles jerárquicos.
         <br><br>
    </td>
     <td>TB2<br><br>
     Realizamos una nueva versión del servicio, el cual seguirá recibiendo mejoras continuas por parte de nuestro equipo de trabajo.</td>
+  </tr>
+  <tr>
+    <td>TF<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Se modificó el diseño de la aplicación para que sea más atractivo y fácil de usar para los usuarios.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Se conectó el Frontend con el Backend para que los usuarios puedan interactuar con la aplicación.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Se implementó la funcionalidad de la aplicación para que los usuarios puedan interactuar con ella. Para eso usamos los endpoints que se conectan con el Backend.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b><br>
+        - Se implementó parcialmente la seguridad usando JWT para que los usuarios puedan ingresar de acuerdo a los roles que tengan.
+        <br><br>
+   </td>
+    <td>TF<br><br>
+    Se implementó la funcionalidad de la aplicación para que los usuarios puedan interactuar con ella. Para eso usamos los endpoints que se conectan con el Backend. Adicionalmente se implementó parcialmente la seguridad usando JWT para que los usuarios puedan ingresar de acuerdo a los roles que tengan.
+    </td>
   </tr>
 </table>
 
