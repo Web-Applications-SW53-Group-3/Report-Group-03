@@ -230,6 +230,7 @@
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
       - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
       - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
       - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
@@ -6995,6 +6996,22 @@ Se realizaron pruebas unitarias usando Xunit y Moq.
 </table>
 
 <br><br>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176666651605868604/image.png?ex=656fb337&is=655d3e37&hm=8b754671f8fd0743c8edfe1770e24ebed24a217ffbb46ed1b694c2240945fb62&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176666867654479983/image.png?ex=656fb36a&is=655d3e6a&hm=86a575ca754ac7933859224671d26ae9272bb01a7102c668c2274b8879d345dd&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176666940853465208/image.png?ex=656fb37c&is=655d3e7c&hm=e9d08ab76314289310b6c17e6a2f6e21b17908f0afbeb52b8c0f37e94eed639d&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667007018606642/image.png?ex=656fb38b&is=655d3e8b&hm=8350279f4a5d97a160a3f494d2ac4ddc7831b965cb8bcc315a9b2918b91c0307&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667067777306675/image.png?ex=656fb39a&is=655d3e9a&hm=210996d239fd1535a0fc005b6f7d1a1b8b83b2c9693cdf94b9619feffd6bfe2a&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667117916008528/image.png?ex=656fb3a6&is=655d3ea6&hm=ee6eb6d5fd9b7ac783e9199033c9278a7d9c492fd880d11fbbed823d7d7b3a5c&" alt="ChambeapePe API"  width="100%">
+
+<img src="https://cdn.discordapp.com/attachments/1142626132357828689/1176667229304147988/image.png?ex=656fb3c0&is=655d3ec0&hm=da1aa60071f03868425d55cfb0f425ba23290e3c5d61fa270a41112dd7b9379b&" alt="ChambeapePe API"  width="100%">
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
