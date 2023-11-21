@@ -227,6 +227,7 @@
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
     - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
   - [5.3 Validation Interview](#53-validation-interview)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -6695,6 +6696,195 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 </br>
 <br>
 
+#### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se especifican los detalles del Sprint Backlog.
+
+- [Click aqui para ver el Trello](https://trello.com/invite/b/hHMMLGXR/ATTI49808b196bb44a31a04ddeb483cd27a59B1F055B/sprint-backlog-4)
+
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176591538403422328/image.png?ex=656f6d42&is=655cf842&hm=d1bc97bb57b63e26607ef837744859234451a2429a434398d24872ef028fbea7&" alt="Trello-Sprint-4"  width="90%"> <img>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+   <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
+     </tr>
+   <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+   <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+   </tr>
+   <tr>
+       <td rowspan="3">US-01</td>
+       <td rowspan="3">Inicio de Sesión</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de inicio de sesión</td>
+       <td>Crear un modelo de datos que almacene los datos de inicio de sesión de un usuario, como correo electrónico y contraseña.</td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de inicio de sesión</td>
+       <td>mplementar una interfaz de usuario funcional que verifique y permita a los usuarios iniciar sesión en la aplicación.</td>
+       <td>3.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T03</td>
+       <td>Implementar autenticación de usuarios</td>
+       <td>Implementar la autenticación de usuarios utilizando JWT.</td>
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="4">US-02</td>
+       <td rowspan="4">Registrarse con correo</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de registro en el backend</td>
+       <td>Crear un modelo de datos que almacene los datos de registro de un usuario, como correo electrónico, nombre, apellido, contraseña y tipo de usuario. </td> 
+       <td>4</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de registro</td>
+       <td>Implementar una interfaz de usuario que permita a los usuarios registrarse en la aplicación con su correo electrónico, nombre, apellido, contraseña y tipo de usuario.</td>
+       <td>2</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T03</td>
+       <td> Implementar creación de usuarios en el backend</td>
+       <td> Implementar la creación de usuarios en el backend utilizando JWT.</td>
+       <td>3</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T04</td>
+       <td>Implementar creación de usuarios en el frontend</td>
+       <td>Implementar la creación de usuarios en el frontend utilizando Angular.</td>
+       <td>2</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="2">US-03</td>
+       <td rowspan="2">	Manejar información del perfil</td>
+       <td>T01</td>
+       <td>Implementar JWT para la autenticación del perfil de usuario</td>
+       <td>Implementar JSON Web Tokens (JWT) para manejar la autenticación y autorización del perfil de usuario. Esto permitirá a los usuarios mantener sus datos personales actualizados de manera segura.</td> 
+       <td>4</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la actualización del perfil de usuario</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="2">US-12</td>
+       <td rowspan="2">Comunicar entre empleado y chambeador</td>
+       <td>T01</td>
+       <td>Establecer comunicación segura entre empleador y chambeador</td>
+       <td>Implementar seguridad en la aplicación para garantizar una comunicación segura entre el empleador y el chambeador. Esto permitirá a los empleadores definir las características del trabajo directamente con los chambeadores de manera segura.</td> 
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la comunicación entre empleador y chambeador</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="2">US-13</td>
+       <td rowspan="2">Reseñar empleador al chambeador</td>
+       <td>T01</td>
+       <td>Implementar JWT para la reseña del empleador al chambeador</td>
+       <td>Implementar JWT para asegurar la reseña del empleador al chambeador. Esto permitirá a los empleadores dejar una reseña sobre la experiencia con el chambeador de manera segura después de que el trabajo se haya completado.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para las reseñas del empleador al chambeador</td>
+       <td>Conectar endpoints en el backend que permitan al empleador dejar una reseña sobre la experiencia con el chambeador. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="3">US-21</td>
+       <td rowspan="3">Postular a vacantes de trabajo</td>
+        <td>T01</td>
+        <td> Implementar restricción de acceso por roles</td>
+        <td> Implementar la restricción de acceso a la función de postulación de vacantes a usuarios autenticados con el rol de empleador.</td>
+        <td>3</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+   </tr>
+   <tr>
+        <td>T02</td>
+        <td>Implementar la validación de campos</td>
+        <td> Implementar la validación de campos en la función de postulación de vacantes.</td>
+        <td>2</td>
+        <td>Steve Castillo</td>
+        <td>Done</td>
+   </tr>
+   <tr>
+        <td>T03</td>
+        <td>Implementar la creación de postulaciones en el backend</td>
+        <td> Implementar la creación de postulaciones en el backend utilizando JWT.</td>
+        <td>2,5</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="2">US-23</td>
+       <td rowspan="2">Manejar certificados</td>
+       <td>T01</td>
+       <td>Implementar seguridad para el manejo de certificados</td>
+       <td>Implementar seguridad para manejar los certificados del chambeador. Esto permitirá a los chambeadores manejar sus certificados de manera segura, lo que les dará una mejor oportunidad laboral.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Crear endpoints para el manejo de certificados</td>
+       <td>Crear endpoints en el backend que permitan al chambeador manejar sus certificados. Estos endpoints deben estar protegidos.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+</table>
 
 ## 5.3 Validation Interview
 A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
