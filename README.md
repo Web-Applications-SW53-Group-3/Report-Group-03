@@ -6641,7 +6641,7 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
             <b>Sprint #</b>
         </td>
         <td>
-            <b>Sprint 3</b>           
+            <b>Sprint 4</b>           
         </td>
     </tr>
     <tr align="left">
@@ -7483,8 +7483,13 @@ El video que se muestra a continuación es un resumen de las funcionalidades de 
 - Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requisitos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
 
 - La aplicación de los principios de diseño de UX ha sido fundamental para garantizar que la aplicación sea intuitiva y fácil de usar. Esto ha sido posible gracias a la realización de pruebas de usabilidad y a la incorporación de las percepciones de los usuarios en el diseño de la aplicación. Esto ha contribuido a una experiencia de usuario más atractiva y a una mayor retención de usuarios.
-  
 
+- .NET es una plataforma potente y versátil que ofrece una amplia gama de características y funcionalidades para el desarrollo de aplicaciones de alto rendimiento y escalabilidad.
+
+- Los unit tests son una parte esencial del desarrollo de software de calidad. Ayudan a garantizar que el código sea correcto, robusto y fácil de mantener.
+
+- Los JWT son una forma segura y eficiente de transmitir información entre aplicaciones. Son fáciles de usar y compatibles con una amplia gama de plataformas y lenguajes de programación.
+  
 # Bibliografía
 1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
 trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
