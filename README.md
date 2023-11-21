@@ -232,6 +232,7 @@
       - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interview](#53-validation-interview)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -7059,6 +7060,20 @@ A continuación se muestra el Swagger Documentado de los servicios que se han de
 
 El proyecto se encuentra desplegado en Azure, todo esto está documentado en el 3.2.3.7 Software Deployment Evidence for Sprint Review.
 Acá el link al documento: [3.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
+**Insights Frontend**
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176656707162742794/image.png?ex=656fa9f4&is=655d34f4&hm=f4c0db3e647c9cc919e952183c99ba778228d5235c203f1a1c938b2e985d337e&"  width="90%"/>
+</div>
+
+**Insights Backend**
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176656535175319653/image.png?ex=656fa9cb&is=655d34cb&hm=63151382c4f30b6f7bce0c01376b51ed8e589ec98727484eee5f38323292943a&"  width="90%"/>
+</div>
+
 
 ## 5.3 Validation Interview
 A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
