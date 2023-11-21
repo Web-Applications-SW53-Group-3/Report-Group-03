@@ -228,6 +228,7 @@
     - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
       - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
   - [5.3 Validation Interview](#53-validation-interview)
@@ -6887,6 +6888,74 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>Done</td>
    </tr>
 </table>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+Se realizaron pruebas unitarias usando Xunit y Moq.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20>ChambeaPe-Backend</td>
+    <td>feature/unit-test-api</td>
+    <td>6310407</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add unit test controllers</td>
+    <td>2023-11-02</td>
+  </tr>
+  <tr>
+    <td rowspan=6>feature/unit-test-domain</td>
+    <td>6caa5f8</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add tests for userdomain</td>
+    <td>2023-10-31</td>
+  </tr>
+   <tr>
+    <td>f794686</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add userdomain tests</td>
+    <td>2023-11-01</td>
+  </tr>
+  <tr>
+    <td>fc6086a</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add test at worker entity</td>
+    <td>2023-10-31</td>
+  </tr>
+  <tr>
+    <td>3e72c4b</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add worjker doamain tests</td>
+    <td>2023-11-01</td>
+  </tr>
+   <tr>
+    <td>83fc5e8</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add advertisement domain tests</td>
+    <td>2023-11-01</td>
+  </tr>
+  <tr>
+    <td>6a4c1f4</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: complete unit tests</td>
+    <td>2023-11-06</td>
+  </tr>
+  <tr>
+    <td>feature/unit-test-data</td>
+    <td>bccaad5</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add skills tests</td>
+    <td>2023-11-02</td>
+  </tr>
+</table>
+
+<br><br>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
