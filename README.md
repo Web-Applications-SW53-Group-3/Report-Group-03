@@ -228,6 +228,7 @@
     - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
       - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
   - [5.3 Validation Interview](#53-validation-interview)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -6884,6 +6885,66 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>Steve Castillo</td>
        <td>Done</td>
    </tr>
+</table>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+A continuación se muestra el Swagger Documentado de los servicios que se han desarrollado. Para conectar nuestro frontend en Vue con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure.
+
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597684463882311/image.png?ex=656f72fc&is=655cfdfc&hm=e0c40c21d23db6ded7cca7f07a0bfd43956972c61497ffb81982959a3bd3d7f8&" alt="ChambeapePe API"  width="100%">
+
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Services</th>
+        <th>Evidencia</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <th>Account</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597742320091156/image.png?ex=656f7309&is=655cfe09&hm=54b0ad710a9802849dbb258f1a4cbc90bff6dd97c75ebea5a94e8f3f8824fc21&"  width="100%"></td>
+        <td>Endpoint Account</td>
+    </tr>
+    <tr>
+        <th>Advertisement</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597771319517315/image.png?ex=656f7310&is=655cfe10&hm=3db1a1d2ba271d8999f1513aec55e3d342a99ffaadb88a8854214fe9308796f8&"  width="100%"></td>
+        <td>Endpoint Advertisement</td>
+    </tr>
+    <tr>
+        <th>Certificate</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597813560361092/image.png?ex=656f731a&is=655cfe1a&hm=e2b3a7fab04a11c43c0b79ac625e20521360441b61acdcbec91457203dacb109&"  width="100%"></td>
+        <td>Endpoint Certificate</td>
+    </tr>
+    <tr>
+        <th>Employer</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597847832002641/image.png?ex=656f7323&is=655cfe23&hm=f45ab0f35b5bc11526e33fd4b5db4163fb2e08f8c850527e18f08f7e55e5a7f2&"  width="100%"></td>
+        <td>Endpoint Employer</td>
+    </tr>
+    <tr>
+        <th>Portfolio</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597880996372590/image.png?ex=656f732a&is=655cfe2a&hm=0da2755518f66dc348da079de58f525826d5640d5a234aaab0e55eb4aea79a7d&"  width="100%"></td>
+        <td>Endpoint Portfolio</td>
+    </tr>
+    <tr>
+        <th>Post</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597915649724506/image.png?ex=656f7333&is=655cfe33&hm=70ef5e3f091cda020ceb618cc2073487883134d1212adbaef525a83f815fe00c&"  width="100%"></td>
+        <td>Endpoint Post</td>
+    </tr>
+    <tr>
+        <th>Skill</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597960197406760/image.png?ex=656f733d&is=655cfe3d&hm=e863911c01ef45c51dd214a36941aaf0293e428473b102cdfc1667a0fccd894b&"  width="100%"></td>
+        <td>Endpoint Skill</td>
+    </tr>
+    <tr>
+        <th>User</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176597989293310085/image.png?ex=656f7344&is=655cfe44&hm=685337b53940e9b3c2ce24d1c589c00d416a9797d9ab9fb364a5574bbcc730df&"  width="100%"></td>
+        <td>Endpoint User</td>
+    </tr>
+    <tr>
+        <th>Worker</th>
+        <td><img src="https://cdn.discordapp.com/attachments/1120134585896939531/1176598033413197946/image.png?ex=656f734f&is=655cfe4f&hm=51309fd60a6cc5886509f016b558561d59cc5918aa95709268af72ab6bbff504&"  width="100%"></td>
+        <td>Endpoint Worker</td>
+    </tr>
 </table>
 
 ## 5.3 Validation Interview
